@@ -38,7 +38,7 @@ double manhattan_distance(double x1, double y1, double x2, double y2) {
 
 //hierarchical clustering function
 int* hierarchical_clustering(double *x_coords, double *y_coords, int data_size, DistanceMeasure measure, double **representative_x, double **representative_y) {
-    int desired_clusters = 10;  // Change this as per requirements
+    int desired_clusters = 10;
     int current_clusters = data_size;
     int *labels = (int*) malloc(data_size * sizeof(int));
     if (labels == NULL) {
