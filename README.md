@@ -1,6 +1,3 @@
-Certainly! I will create a README in Markdown format for the CURE (Clustering Using Representatives) clustering algorithm implemented in C with MPI for parallel processing.
-
----
 
 # CURE Clustering Algorithm (MPI)
 
