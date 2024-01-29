@@ -138,10 +138,6 @@ int* hierarchical_clustering(double *x_coords, double *y_coords, int data_size, 
     free(unique_labels); // Return the labels for further use
 }
 
-
-
-
-
 int main(int argc, char** argv) {
     int rank, size;
     int ierr; // to handle MPI error codes
@@ -186,7 +182,6 @@ int main(int argc, char** argv) {
 
     // Get the number of processes
     MPI_Comm_size(MPI_COMM_WORLD, &size);
-
 
 
     // Only the root process reads the entire data and determines the data_size
@@ -263,7 +258,6 @@ int main(int argc, char** argv) {
     free(sendcounts);
     free(displs);
 
-
     // Seed the random number generator using the rank for uniqueness
     srand(time(NULL) + rank);
 
@@ -321,7 +315,6 @@ int main(int argc, char** argv) {
         fflush(stdout);
     }
 
-    // Distributing the representative points across all processes for parallel processing
     // Distributing the representative points across all processes for parallel processing
     int num_representatives = 10 * size;
     int local_representatives_count = num_representatives / size;
