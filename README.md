@@ -58,7 +58,7 @@ Modify the following definitions in the code to change the clustering behavior:
 #define ANOTHER_DEFINED_THRESHOLD 0.3
 ```
 
-- `SOME_DEFINED_THRESHOLD` is used for outlier detection.
+- `A_DEFINED_THRESHOLD` is used for outlier detection.
 - `ANOTHER_DEFINED_THRESHOLD` is used for deciding when to split clusters.
 
 ## Key Functions
