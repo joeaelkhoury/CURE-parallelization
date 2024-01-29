@@ -74,9 +74,5 @@ Modify the following definitions in the code to change the clustering behavior:
 
 ## Author
 
-'Joe El Khoury'
-'Yusuke Sugihara'
-
----
-
-This README provides a basic overview and instructions for compiling and running the CURE clustering program. You can expand or modify it as needed to better fit the specifics of your implementation or environment.
+Joe El Khoury
+Yusuke Sugihara
