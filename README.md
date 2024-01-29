@@ -54,7 +54,7 @@ The program outputs the clustering result, which includes cluster assignments fo
 Modify the following definitions in the code to change the clustering behavior:
 
 ```c
-#define SOME_DEFINED_THRESHOLD 0.5
+#define A_DEFINED_THRESHOLD 0.5
 #define ANOTHER_DEFINED_THRESHOLD 0.3
 ```
 
