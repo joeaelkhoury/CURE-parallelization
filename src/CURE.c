@@ -5,7 +5,7 @@
 #include <math.h>
 #include <time.h>
 #include <stdbool.h>
-#include <assert.h> // for buffer overflow checks
+#include <assert.h>
 
 
 #define SOME_DEFINED_THRESHOLD 0.5
