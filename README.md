@@ -74,5 +74,6 @@ Modify the following definitions in the code to change the clustering behavior:
 
 ## Author
 
-<span style="color:blue;">Joe El Khoury</span>  
-<span style="color:green;">Yusuke Sugihara</span>
+**Joe El Khoury**  
+**Yusuke Sugihara**
+
