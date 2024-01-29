@@ -12,8 +12,8 @@ This program implements the CURE (Clustering Using Representatives) clustering a
 
 ## Prerequisites
 
-- An MPI library (e.g., MPICH, Open MPI)
-- A C compiler (such as gcc)
+- An MPI library (MPICH)
+- A C compiler
 - Access to a compute environment with MPI support
 
 ## Compilation
