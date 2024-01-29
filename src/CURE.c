@@ -18,7 +18,6 @@ typedef enum {
 } DistanceMeasure;
 
 
-// Helper function to check if a label already exists in the unique labels array
 bool contains(int *arr, int size, int value) {
     for (int i = 0; i < size; i++) {
         if (arr[i] == value) return true;
