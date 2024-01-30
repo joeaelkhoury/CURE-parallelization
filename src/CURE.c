@@ -8,8 +8,8 @@
 #include <assert.h>
 
 
-#define SOME_DEFINED_THRESHOLD 0.5
-#define ANOTHER_DEFINED_THRESHOLD 0.3
+// #define Test_THRESHOLD 0.5
+#define THRESHOLD 0.3
 
 // Enum to represent distance measure choices
 typedef enum {
@@ -394,7 +394,7 @@ int main(int argc, char** argv) {
         }
 
         // Splitting into new clusters if necessary
-        double SPLITTING_THRESHOLD = ANOTHER_DEFINED_THRESHOLD;  // Define this value
+        double SPLITTING_THRESHOLD = THRESHOLD;
         for (int i = 0; i < num_representatives; i++) {
             double avg_distance = 0.0;
             int neighbors = 0;
