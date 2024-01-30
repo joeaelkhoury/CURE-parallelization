@@ -168,7 +168,7 @@ int main(int argc, char** argv) {
 
     double start_time = MPI_Wtime();
 
-    // 1. After MPI Initialization
+    // After MPI Initialization
     MPI_Barrier(MPI_COMM_WORLD);
     if (rank == 0) {
         printf("Reached after MPI initialization.\n");
@@ -184,6 +184,21 @@ int main(int argc, char** argv) {
     MPI_Comm_size(MPI_COMM_WORLD, &size);
 
 
+    
+    // Check if the number of command-line arguments is correct
+    if (argc < 2) {
+        if (rank == 0) {
+            fprintf(stderr, "Usage: %s <number_of_processes> <other_arguments_if_any>\n", argv[0]);
+        }
+        MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
+    }
+
+    // Get the number of processes from command-line argument
+    int num_processes = atoi(argv[1]);
+    
+
+
+    
     // Only the root process reads the entire data and determines the data_size
     if (rank == 0) {
         file = fopen("/home/joe.elkhoury/project/augmented_data4.txt", "r");
