@@ -185,16 +185,16 @@ int main(int argc, char** argv) {
 
 
     
-    // Check if the number of command-line arguments is correct
-    if (argc < 2) {
-        if (rank == 0) {
-            fprintf(stderr, "Usage: %s <number_of_processes> <other_arguments_if_any>\n", argv[0]);
-        }
-        MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
-    }
+    // // Check if the number of command-line arguments is correct
+    // if (argc < 2) {
+    //     if (rank == 0) {
+    //         fprintf(stderr, "Usage: %s <number_of_processes> <other_arguments_if_any>\n", argv[0]);
+    //     }
+    //     MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
+    // }
 
-    // Get the number of processes from command-line argument
-    int num_processes = atoi(argv[1]);
+    // // Get the number of processes from command-line argument
+    // int num_processes = atoi(argv[1]);
     
 
 
