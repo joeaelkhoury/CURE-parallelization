@@ -491,23 +491,23 @@ int main(int argc, char** argv) {
 
     MPI_Gatherv(final_labels, end_idx - start_idx, MPI_INT, all_labels, portion_sizes, displs, MPI_INT, 0, MPI_COMM_WORLD);
 
-    // // Write the output to a file on the root process
-    // if (rank == 0) {
-    //     FILE* outfile = fopen("cluster_outputwith2on100k.txt", "w");
-    //     if (outfile == NULL) {
-    //         perror("Failed to open output file");
-    //         MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
-    //     }
-    
     // Write the output to a file on the root process
     if (rank == 0) {
-        char filename[100];
-        sprintf(filename, "cluster_outputwith%d.txt", num_processes);
-        FILE* outfile = fopen(filename, "w");
+        FILE* outfile = fopen("cluster_outputwith2on100k.txt", "w");
         if (outfile == NULL) {
             perror("Failed to open output file");
             MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
         }
+    
+    // // Write the output to a file on the root process
+    // if (rank == 0) {
+    //     char filename[100];
+    //     sprintf(filename, "cluster_outputwith%d.txt", num_processes);
+    //     FILE* outfile = fopen(filename, "w");
+    //     if (outfile == NULL) {
+    //         perror("Failed to open output file");
+    //         MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
+    //     }
 
         
         // Write the header
