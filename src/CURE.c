@@ -11,7 +11,7 @@
 // #define Test_THRESHOLD 0.5
 #define THRESHOLD 0.3
 
-// Enum to represent distance measure choices
+//  Enum to represent distance measure choices
 typedef enum {
     EUCLIDEAN,
     MANHATTAN
