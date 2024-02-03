@@ -5,7 +5,7 @@ This program implements the CURE (Clustering Using Representatives) clustering a
 
 ## Features
 
-- **CURE Clustering**: Implements the CURE algorithm, which identifies clusters based on a representative points approach.
+- **CURE Clustering**: Implements  the CURE algorithm, which identifies clusters based on a representative points approach.
 - **Distance Measures**: Supports Euclidean and Manhattan distance calculations.
 - **Parallel Processing**: Leverages MPI to distribute the clustering process across multiple nodes.
 - **Dynamic Thresholds**: Customizable thresholds for outlier detection and cluster splitting.
