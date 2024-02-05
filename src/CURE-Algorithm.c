@@ -232,7 +232,6 @@ void find_global_closest_pair(CureCluster* local_clusters, int local_num_cluster
     MPI_Bcast(global_closest_a, 1, MPI_INT, global_min.rank, comm);
     MPI_Bcast(global_closest_b, 1, MPI_INT, global_min.rank, comm);
 
-    // This ensures all processes have the indices of the global closest pair
 }
 
 // Serialize CureCluster data into a buffer. The caller must free the buffer.
@@ -260,7 +259,6 @@ void deserialize_clusters(unsigned char* buffer, int buffer_size, CureCluster* c
         ptr += sizeof(int);
         memcpy(&clusters[i].isActive, ptr, sizeof(bool));
         ptr += sizeof(bool);
-        // Additional logic to reallocate and fill points and representatives based on the new size
     }
 }
 
@@ -388,10 +386,8 @@ int* cure_clustering(Point* data, int num_points, int n_clusters, int num_rep, d
         clusters[i].isActive = 1; // Initially, all clusters are active
     }
 
-    printf("Process %d: Clusters initialized\n", world_rank); // Debugging line
     printf("Process %d: Clusters initialized, total clusters: %d\n", world_rank, num_clusters);
 
-    // Before deciding whether to merge clusters in the main clustering loop
     printf("Process %d evaluating if it should merge clusters.\n", world_rank);
     MPI_Barrier(MPI_COMM_WORLD); // Sync point
 
@@ -407,9 +403,6 @@ int* cure_clustering(Point* data, int num_points, int n_clusters, int num_rep, d
         if (closest_a != -1 && closest_b != -1) {
             // Merge clusters
             merge_clusters(clusters, &num_clusters, closest_a, closest_b, world_rank, comm);
-
-            // After merging, it's possible the number of clusters has reduced
-            // Reallocate or adjust the clusters array as necessary
         }
 
         // Synchronize all processes to ensure a consistent view of the cluster count
@@ -417,10 +410,8 @@ int* cure_clustering(Point* data, int num_points, int n_clusters, int num_rep, d
     }
 
     // At this point, we have the final set of clusters
-    // Assign labels to each point based on their cluster membership
     int* local_labels = (int*)malloc(sendcounts[world_rank] * sizeof(int));
     for (int i = 0; i < sendcounts[world_rank]; i++) {
-        // Assuming 'assign_local_labels' updates 'local_labels' with the cluster index for each point
         assign_local_labels(clusters, num_clusters, local_labels, sendcounts[world_rank]);
     }
 
