@@ -22,15 +22,15 @@ typedef struct {
     Point* representatives;
     Point* points;
     int num_rep;
-    int* pointIndices; // Existing field, consider renaming for clarity
+    int* pointIndices;
     int size;
     bool isActive;
     double shrink_factor;
     Point centroid;
-    int* allPointIndices; //for storing all point indices
-    int allPointSize; // Size of the allPointIndices array
-    int* mergeHistory; // Dynamic array to store the history of merged cluster indices
-    int mergeHistorySize; // Number of elements in mergeHistory
+    int* allPointIndices; 
+    int allPointSize; 
+    int* mergeHistory; 
+    int mergeHistorySize; 
 } CureCluster;
 
 typedef struct {
@@ -43,9 +43,9 @@ const int num_rep = 1;
 const int shrink_factor = 0.1;
 
 void create_mpi_point_type(MPI_Datatype* MPI_POINT) {
-    const int nitems = 2; // Because Point has 2 items
-    int blocklengths[2] = {1, 1}; // Each item is a block of 1
-    MPI_Datatype types[2] = {MPI_DOUBLE, MPI_DOUBLE}; // Data types of each item
+    const int nitems = 2; 
+    int blocklengths[2] = {1, 1}; 
+    MPI_Datatype types[2] = {MPI_DOUBLE, MPI_DOUBLE};
     MPI_Aint offsets[2];
 
     // Calculate offsets of each field
@@ -54,7 +54,7 @@ void create_mpi_point_type(MPI_Datatype* MPI_POINT) {
 
     // Create MPI struct datatype
     MPI_Type_create_struct(nitems, blocklengths, offsets, types, MPI_POINT);
-    MPI_Type_commit(MPI_POINT); // Commit the datatype
+    MPI_Type_commit(MPI_POINT); 
 }
 
 // Function to read data from a file
@@ -73,7 +73,7 @@ Point* read_data(char* file_path, int* num_points, int world_rank) {
     while (fscanf(file, "%lf,%lf\n", &x, &y) == 2) {
         if (isnan(x) || isnan(y)) {
             fprintf(stderr, "Warning: Invalid point coordinates\n");
-            continue; // Skip the invalid point
+            continue;
         }
         points = realloc(points, (count + 1) * sizeof(Point));
         points[count].x = x;
@@ -170,7 +170,7 @@ void select_representatives(CureCluster* cluster, int num_rep) {
     int reps_to_select = num_rep < cluster->size ? num_rep : cluster->size;
     cluster->num_rep = reps_to_select;
     for (int i = 0; i < reps_to_select; i++) {
-        cluster->representatives[i] = cluster->points[i]; // Select the first 'reps_to_select' points
+        cluster->representatives[i] = cluster->points[i];
     }
 
 }
@@ -231,9 +231,6 @@ void find_global_closest_pair(CureCluster* local_clusters, int local_num_cluster
 
     // Structure to hold the local minimum distance and the rank of the process
     MinDistRank local_min = {local_min_distance, world_rank}, global_min;
-
-    // // Ensure all processes have the latest data and are synchronized
-    // MPI_Barrier(MPI_COMM_WORLD);
     
     // All processes participate in the MPI_Allreduce operation to find the global minimum distance and corresponding rank
     MPI_Allreduce(&local_min, &global_min, 1, MPI_DOUBLE_INT, MPI_MINLOC, comm);
@@ -248,12 +245,10 @@ void find_global_closest_pair(CureCluster* local_clusters, int local_num_cluster
         *global_closest_b = closest_b;
     }
 
-    // Since MPI_Allreduce ensures all processes reach this point together, we can safely broadcast the results
     // Broadcast the indices of the global closest pair from the process that owns them to all other processes
     MPI_Bcast(global_closest_a, 1, MPI_INT, global_min.rank, comm);
     MPI_Bcast(global_closest_b, 1, MPI_INT, global_min.rank, comm);
 
-    // This ensures all processes have the indices of the global closest pair
 }
 
 
@@ -287,14 +282,13 @@ void merge_clusters(CureCluster* clusters, int* num_clusters, int cluster_a_inde
     memcpy(mergedAllPointIndices, clusterA->allPointIndices, clusterA->allPointSize * sizeof(int));
     memcpy(mergedAllPointIndices + clusterA->allPointSize, clusterB->allPointIndices, clusterB->allPointSize * sizeof(int));
 
-    free(clusterA->allPointIndices); // Free old indices array of clusterA
-    free(clusterB->allPointIndices); // Free indices array of clusterB
+    free(clusterA->allPointIndices);
+    free(clusterB->allPointIndices);
 
     clusterA->allPointIndices = mergedAllPointIndices;
     clusterA->allPointSize += clusterB->allPointSize;
 
     // If points are dynamically allocated, handle them similarly
-    // Assuming points are also dynamically managed
     Point* mergedPoints = (Point*)realloc(clusterA->points, mergedSize * sizeof(Point));
     if (!mergedPoints) {
         fprintf(stderr, "Process %d: Failed to allocate memory for merged cluster points.\n", world_rank);
@@ -306,7 +300,7 @@ void merge_clusters(CureCluster* clusters, int* num_clusters, int cluster_a_inde
     clusterA->points = mergedPoints;
     clusterA->size = mergedSize;
 
-    free(clusterB->points); // Free old points array of clusterB
+    free(clusterB->points);
 
     // Update centroid and representatives for the merged cluster
     clusterA->centroid = calculate_centroid(clusterA);
@@ -319,9 +313,9 @@ void merge_clusters(CureCluster* clusters, int* num_clusters, int cluster_a_inde
     for (int i = cluster_b_index; i < *num_clusters - 1; ++i) {
         clusters[i] = clusters[i + 1];
     }
-    (*num_clusters)--; // Decrement the total number of clusters after merging
+    (*num_clusters)--;
 
-    MPI_Barrier(comm); // Synchronize after modifying the clusters array
+    MPI_Barrier(comm);
     printf("Process %d: Merging complete. Total clusters now: %d.\n", world_rank, *num_clusters);
 }
 
@@ -342,8 +336,6 @@ void assign_local_labels(CureCluster* local_clusters, int local_num_clusters, in
 
 // Function to implement the CURE clustering algorithm
 int* cure_clustering(Point* data, int num_points, int n_clusters, int num_rep, double shrink_factor, MPI_Comm comm) {
-    // int error_codesc;
-    // int error_codega;
     int world_size, world_rank;
     MPI_Comm_size(comm, &world_size);
     MPI_Comm_rank(comm, &world_rank);
@@ -418,25 +410,19 @@ int* cure_clustering(Point* data, int num_points, int n_clusters, int num_rep, d
             // Merge clusters
             merge_clusters(clusters, &num_clusters, closest_a, closest_b, world_rank, comm);
 
-            // After merging, it's possible the number of clusters has reduced
-            // Reallocate or adjust the clusters array as necessary
         }
 
         // Synchronize all processes to ensure a consistent view of the cluster count
         MPI_Allreduce(MPI_IN_PLACE, &num_clusters, 1, MPI_INT, MPI_MIN, comm);
     }
 
-    // At this point, we have the final set of clusters
-    // Assign labels to each point based on their cluster membership
     int* local_labels = (int*)malloc(sendcounts[world_rank] * sizeof(int));
     memset(local_labels, -1, sendcounts[world_rank] * sizeof(int)); // Initialize labels to -1 or a similar invalid value
 
     for (int i = 0; i < sendcounts[world_rank]; i++) {
-        // Assuming 'assign_local_labels' updates 'local_labels' with the cluster index for each point
         assign_local_labels(clusters, num_clusters, local_labels, sendcounts[world_rank]);
     }
 
-    // Collect labels from all processes to the root process
     int* global_labels = NULL;
     if (world_rank == 0) {
         global_labels = (int*)malloc(num_points * sizeof(int));
@@ -479,15 +465,6 @@ int* cure_clustering(Point* data, int num_points, int n_clusters, int num_rep, d
     return global_labels;
 }
 
-// void print_cluster_points(const CureCluster* clusters, int num_clusters) {
-//     for (int i = 0; i < num_clusters; i++) {
-//         printf("Cluster %d:\n", i);
-//         for (int j = 0; j < clusters[i].size; j++) {
-//             printf("  Point %d: (%.2f, %.2f)\n", j, clusters[i].points[j].x, clusters[i].points[j].y);
-//         }
-//     }
-// }
-
 void visualize_clusters(CureCluster* clusters, int num_clusters) {
     for (int i = 0; i < num_clusters; i++) {
         if (!clusters[i].isActive) continue; // Skip inactive clusters
@@ -502,9 +479,8 @@ void visualize_clusters(CureCluster* clusters, int num_clusters) {
     }
 }
 
-
-
 int main(int argc, char* argv[]) {
+    int final_cluster_count;
     MPI_Init(&argc, &argv);
     int world_rank, world_size;
     MPI_Comm_rank(MPI_COMM_WORLD, &world_rank);
@@ -513,10 +489,11 @@ int main(int argc, char* argv[]) {
     double start_time = MPI_Wtime();
 
     MPI_Datatype MPI_POINT;
-    create_mpi_point_type(&MPI_POINT); 
+    create_mpi_point_type(&MPI_POINT);
 
     int num_points = 0;
     Point* data = NULL;
+    // Root process reads the data from file
     if (world_rank == 0) {
         data = read_data("full_data.txt", &num_points, world_rank);
         if (!data) {
@@ -525,69 +502,52 @@ int main(int argc, char* argv[]) {
         }
     }
 
+    // Broadcast the number of points to all processes
     MPI_Bcast(&num_points, 1, MPI_INT, 0, MPI_COMM_WORLD);
 
+    
     Point* local_data = NULL;
     int local_num_points = 0;
+    // Distribute data among all processes
     distribute_data(data, num_points, &local_data, &local_num_points, world_rank, world_size, MPI_POINT);
 
+    // Free the original data array on the root process after distribution
     if (world_rank == 0) {
         free(data);
     }
 
-    int desired_clusters = 3;
+
+    int desired_clusters = 3; 
     int num_rep = 5;
     double shrink_factor = 0.5;
 
+    CureCluster* final_clusters = NULL;
+
+    // Each process performs clustering on its local data
     int* global_labels = cure_clustering(local_data, local_num_points, desired_clusters, num_rep, shrink_factor, MPI_COMM_WORLD);
 
-    int *recvcounts = malloc(world_size * sizeof(int));
-    int *displs = malloc(world_size * sizeof(int));
-    int totalIndices = 0;
-
+    // Visualization part
     if (world_rank == 0) {
-        MPI_Gather(&local_num_points, 1, MPI_INT, recvcounts, 1, MPI_INT, 0, MPI_COMM_WORLD);
-
-        totalIndices = recvcounts[0];
-        displs[0] = 0;
-        for (int i = 1; i < world_size; i++) {
-            displs[i] = displs[i - 1] + recvcounts[i - 1];
-            totalIndices += recvcounts[i];
+        visualize_clusters(final_clusters, final_cluster_count);
+        // Free the resources of final_clusters
+        for (int i = 0; i < final_cluster_count; i++) {
+            free(final_clusters[i].points);
+            free(final_clusters[i].allPointIndices);
         }
-
-        int* allIndices = malloc(totalIndices * sizeof(int));
-        MPI_Gatherv(local_data, local_num_points, MPI_POINT, allIndices, recvcounts, displs, MPI_POINT, 0, MPI_COMM_WORLD);
-
-        // Visualization part
-        if (world_rank == 0) {
-            visualize_clusters(final_clusters, final_cluster_count);
-            // Free the resources of final_clusters
-            for (int i = 0; i < final_cluster_count; i++) {
-                free(final_clusters[i].points);
-                free(final_clusters[i].allPointIndices);
-            }
-            free(final_clusters);
-        }
-
-
-        free(allIndices); // Free the allocated memory for all indices
-    } else {
-    
-        MPI_Gather(&local_num_points, 1, MPI_INT, NULL, 0, MPI_INT, 0, MPI_COMM_WORLD);
-        MPI_Gatherv(local_data, local_num_points, MPI_POINT, NULL, NULL, NULL, MPI_POINT, 0, MPI_COMM_WORLD);
+        free(final_clusters);
     }
 
-    free(recvcounts);
-    free(displs);
-
     // Clean up local resources
-    free(local_data);
-    if (global_labels != NULL) {
+    if (local_data != NULL) {
+        free(local_data);
+    }
+    if (global_labels != NULL && world_rank == 0) {
         free(global_labels);
     }
 
     MPI_Type_free(&MPI_POINT);
 
+    // Stop the timer and print execution time on the root process
     double end_time = MPI_Wtime();
     if (world_rank == 0) {
         printf("Execution time: %f seconds\n", end_time - start_time);
