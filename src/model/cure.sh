@@ -15,4 +15,4 @@ if [ ! -f "./curev1" ]; then
 fi
 
 # Run the executable and tail the output in real-time
-mpiexec -n 8 ./curev1 full_data.txt > output.txt 2>&1 
+mpiexec -n 8 ./curev1 2000data.txt > output.txt 2>&1 
