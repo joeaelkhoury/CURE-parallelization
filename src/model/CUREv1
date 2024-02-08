@@ -495,7 +495,7 @@ int main(int argc, char* argv[]) {
     Point* data = NULL;
     // Root process reads the data from file
     if (world_rank == 0) {
-        data = read_data("full_data.txt", &num_points, world_rank);
+        data = read_data("2000data.txt", &num_points, world_rank);
         if (!data) {
             fprintf(stderr, "Failed to read data.\n");
             MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
