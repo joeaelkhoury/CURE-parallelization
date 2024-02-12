@@ -140,21 +140,6 @@ Point calculate_centroid(CureCluster* cluster) {
     return centroid;
 }
 
-//  Serialization Function
-void serialize_cluster(CureCluster* cluster, unsigned char** buffer, int* size) {
-    *size = sizeof(Point) + sizeof(int); // Size for centroid and cluster size
-    *buffer = (unsigned char*)malloc(*size);
-    memcpy(*buffer, &cluster->centroid, sizeof(Point));
-    memcpy(*buffer + sizeof(Point), &cluster->size, sizeof(int));
-}
-
-//  Deserialization Function
-void deserialize_cluster(unsigned char* buffer, CureCluster* cluster) {
-    memcpy(&cluster->centroid, buffer, sizeof(Point));
-    memcpy(&cluster->size, buffer + sizeof(Point), sizeof(int));
-    // Note: This does not handle points and mergeHistory
-}
-
 
 // Function to shrink representative points towards the cluster centroid (placeholder)
 void shrink_representatives(CureCluster* cluster, Point centroid, double shrink_factor) {
@@ -556,3 +541,17 @@ int main(int argc, char* argv[]) {
     MPI_Finalize();
     return 0;
 }
+
+//  Serialization Function
+//void serialize_cluster(CureCluster* cluster, unsigned char** buffer, int* size) {
+//    *size = sizeof(Point) + sizeof(int); // Size for centroid and cluster size
+//    *buffer = (unsigned char*)malloc(*size);
+//    memcpy(*buffer, &cluster->centroid, sizeof(Point));
+//    memcpy(*buffer + sizeof(Point), &cluster->size, sizeof(int));
+//}
+
+//  Deserialization Function
+//void deserialize_cluster(unsigned char* buffer, CureCluster* cluster) {
+//    memcpy(&cluster->centroid, buffer, sizeof(Point));
+//    memcpy(&cluster->size, buffer + sizeof(Point), sizeof(int));
+//}
