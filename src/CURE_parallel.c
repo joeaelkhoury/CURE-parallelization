@@ -271,58 +271,63 @@ void merge_clusters_locally(CureCluster* clusters, int* num_clusters, int world_
         printf("Process %d: Closest pair to merge: %d and %d with distance %f.\n", world_rank, merge_decision[0], merge_decision[1], min_distance);
 
         if (merge_decision[0] == -1 || merge_decision[1] == -1) {
-            // printf("Process %d: No valid clusters to merge or decision was not made.\n", world_rank);
+            printf("Process %d: No valid pairs to merge. Remaining clusters: %d.\n", world_rank, *num_clusters);
+            break; 
         } else {
             if (merge_decision[0] > merge_decision[1]) {
                 int temp = merge_decision[0];
                 merge_decision[0] = merge_decision[1];
                 merge_decision[1] = temp;
             }
-            // printf("Process %d: Proceeding with merge of clusters %d and %d.\n", world_rank, merge_decision[0], merge_decision[1]);
-            if (clusters[merge_decision[0]].isActive && clusters[merge_decision[1]].isActive && merge_decision[0] != merge_decision[1]) {
-                CureCluster *clusterA = &clusters[merge_decision[0]], *clusterB = &clusters[merge_decision[1]];
-                Point* mergedPoints = realloc(clusterA->points, (clusterA->size + clusterB->size) * sizeof(Point));
-                if (!mergedPoints) {
-                    fprintf(stderr, "Process %d: Failed to reallocate memory for merged points.\n", world_rank);
-                    MPI_Abort(comm, EXIT_FAILURE);
-                    return;
-                }
-                memcpy(mergedPoints + clusterA->size, clusterB->points, clusterB->size * sizeof(Point));
-                clusterA->points = mergedPoints;
-                clusterA->size += clusterB->size;
-                Point* mergedRepresentatives = realloc(clusterA->representatives, (clusterA->num_rep + clusterB->num_rep) * sizeof(Point));
-                if (!mergedRepresentatives) {
-                    fprintf(stderr, "Process %d: Failed to reallocate memory for merged representatives.\n", world_rank);
-                    free(clusterA->points);
-                    MPI_Abort(comm, EXIT_FAILURE);
-                    return;
-                }
-                memcpy(mergedRepresentatives + clusterA->num_rep, clusterB->representatives, clusterB->num_rep * sizeof(Point));
-                clusterA->representatives = mergedRepresentatives;
-                clusterA->num_rep += clusterB->num_rep;
-                clusterA->centroid = calculate_centroid(clusterA);
-                adjust_representatives_towards_centroid(clusterA->representatives, clusterA->num_rep, clusterA->centroid, shrink_factor);
-                adjust_representatives_towards_centroid(clusterB->representatives, clusterB->num_rep, clusterA->centroid, shrink_factor);
-                memcpy(mergedRepresentatives + clusterA->num_rep, clusterB->representatives, clusterB->num_rep * sizeof(Point));
+            CureCluster *clusterA = &clusters[merge_decision[0]];
+            CureCluster *clusterB = &clusters[merge_decision[1]];
+            Point* mergedPoints = realloc(clusterA->points, (clusterA->size + clusterB->size) * sizeof(Point));
+            if (!mergedPoints) {
+                fprintf(stderr, "Process %d: Failed to reallocate memory for merged points.\n", world_rank);
+                MPI_Abort(comm, EXIT_FAILURE);
+                return;
+            }
+            memcpy(mergedPoints + clusterA->size, clusterB->points, clusterB->size * sizeof(Point));
+            clusterA->points = mergedPoints;
+            clusterA->size += clusterB->size;
 
-                free(clusterB->points);
-                clusterB->points = NULL;
-                clusterB->size = 0;
-                free(clusterB->representatives);
-                clusterB->representatives = NULL;
-                clusterB->num_rep = 0;
-                clusterB->isActive = false;
-                for (int i = merge_decision[1]; i < *num_clusters - 1; i++) {
-                    clusters[i] = clusters[i + 1];
-                }
-                (*num_clusters)--;
-                printf("Process %d: Merged into new cluster. Remaining clusters: %d.\n", world_rank, *num_clusters);
-            } else {
-            printf("Process %d: No valid pairs to merge. Remaining clusters: %d.\n", world_rank, *num_clusters);
-            break; 
-        }
-        }
+            Point* mergedRepresentatives = (Point*)malloc((clusterA->num_rep + clusterB->num_rep) * sizeof(Point));
+            if (!mergedRepresentatives) {
+                fprintf(stderr, "Process %d: Failed to allocate memory for merged representatives.\n", world_rank);
+                free(mergedPoints); // Free previously reallocated memory to prevent memory leak
+                MPI_Abort(comm, EXIT_FAILURE);
+                return;
+            }
+
+            memcpy(mergedRepresentatives, clusterA->representatives, clusterA->num_rep * sizeof(Point));
+            memcpy(mergedRepresentatives + clusterA->num_rep, clusterB->representatives, clusterB->num_rep * sizeof(Point));
+            free(clusterA->representatives); 
+            clusterA->representatives = mergedRepresentatives;
+            clusterA->num_rep += clusterB->num_rep;
+
+            clusterA->centroid = calculate_centroid(clusterA);
+
+            adjust_representatives_towards_centroid(clusterA->representatives, clusterA->num_rep, clusterA->centroid, shrink_factor);
+            
+            free(clusterB->points);
+            free(clusterB->representatives);
+
+            clusterB->points = NULL;
+            clusterB->representatives = NULL;
+            clusterB->size = 0;
+            clusterB->num_rep = 0;
+            clusterB->isActive = false;
+
+            for (int i = merge_decision[1]; i < *num_clusters - 1; i++) {
+                clusters[i] = clusters[i + 1];
+            }
+
+            (*num_clusters)--;
+
+            printf("Process %d: Merged clusters %d and %d into one. Total active clusters now: %d.\n", world_rank, merge_decision[0], merge_decision[1], *num_clusters);
+        } 
     }
+
     printf("Process %d: Completed local merging. Final clusters: %d.\n", world_rank, *num_clusters);
 
 }
@@ -697,10 +702,10 @@ int main(int argc, char* argv[]) {
     int num_points = 0;
     Point* data = NULL;
     if (world_rank == 0) {
-        // Use the DATA_FILE macro defined at compile time
+        // Only the root process reads the full dataset.
         data = read_data(DATA_FILE, &num_points, world_rank);
         if (!data) {
-            fprintf(stderr, "Failed to read data from %s.\n", DATA_FILE);
+            fprintf(stderr, "Failed to read data.\n");
             MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
         }
     }
