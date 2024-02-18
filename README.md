@@ -104,5 +104,5 @@ This detailed overview covers the essential components and steps involved in the
 
 
 ## Contributors
-**Yusuke Sugihara**
-**Joe El Khoury**
+- **Yusuke Sugihara**
+- **Joe El Khoury**
