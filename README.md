@@ -6,9 +6,9 @@ This document provides a detailed explanation of the CURE (Clustering Using Repr
 
 Throughout this document, we'll reference several diagrams that illustrate various parts of the implementation. These diagrams are located in the GitHub repository under `/main/assets/Diagrams`.
 
-- **Process**: ![MPI Initialization Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/full.png)
+- **Process**: ![MPI process Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/full.png)
 
-- **MPI Communication**: ![MPI Initialization Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/all_process.png)
+- **MPI Communication**: ![MPI communication Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/all_process.png)
 
 
 ## Overview
@@ -58,14 +58,18 @@ MPI_Scatterv(data, sendcounts, displs, MPI_POINT, local_data, sendcounts[world_r
 
 Each process performs clustering on its segment of the data. This involves initializing clusters, performing iterative merging of clusters based on proximity, and adjusting representatives towards the centroid.
 
+- **Process**: ![MPI local Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/merge_clusters_locally.png)
+
 ### Global Clustering
 
 The root process gathers the local clusters from all processes and performs a final round of merging to reduce the number of clusters to the desired count.
+- **Process**: ![MPI golbal Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/global_merge_on_root.png)
 
 ### Label Assignment
 
 Each process assigns labels to its local data points based on the clustering results. This step may involve determining the nearest cluster representative for each point.
-
+- **Process**: ![MPI communication Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/assign_local_labels.png)
+  
 ### Result Saving
 
 The root process gathers labels from all processes and saves the final clustering results to a file. The file includes coordinates of data points along with their assigned cluster labels.
