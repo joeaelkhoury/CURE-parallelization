@@ -8,6 +8,8 @@ Throughout this document, we'll reference several diagrams that illustrate vario
 
 - **Process**: ![MPI Initialization Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/full.png)
 
+- **MPI Communication**: ![MPI Initialization Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/all_process.png)
+
 
 ## Overview
 
