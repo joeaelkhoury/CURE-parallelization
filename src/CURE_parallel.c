@@ -697,9 +697,10 @@ int main(int argc, char* argv[]) {
     int num_points = 0;
     Point* data = NULL;
     if (world_rank == 0) {
-        data = read_data("f.txt", &num_points, world_rank);
+        // Use the DATA_FILE macro defined at compile time
+        data = read_data(DATA_FILE, &num_points, world_rank);
         if (!data) {
-            fprintf(stderr, "Failed to read data.\n");
+            fprintf(stderr, "Failed to read data from %s.\n", DATA_FILE);
             MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
         }
     }
