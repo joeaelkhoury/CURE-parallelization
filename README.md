@@ -1,7 +1,13 @@
-
 # CURE Clustering Implementation Using MPI
 
 This document provides a detailed explanation of the CURE (Clustering Using Representatives) clustering implementation using the Message Passing Interface (MPI) for parallel processing. The implementation involves several critical steps: initialization, data preparation and distribution, local and global clustering operations, label assignment, and result saving. The code is designed to run efficiently on a distributed computing environment, leveraging MPI for inter-process communication.
+
+## Diagrams Overview
+
+Throughout this document, we'll reference several diagrams that illustrate various parts of the implementation. These diagrams are located in the GitHub repository under `/main/assets/Diagrams`.
+
+- **Process**: ![MPI Initialization Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/full.png)
+
 
 ## Overview
 
@@ -86,10 +92,10 @@ MPI_Finalize();
 The code is compiled using `mpicc` and executed across multiple processes using `mpiexec`. The compilation and execution process is managed by a PBS (Portable Batch System) script, which specifies the required resources and execution parameters.
 
 ```bash
-mpicc -g -Wall -fopenmp CURE_parallel.c -std=c99 -o cure_executable -lm
+mpicc -g -Wall -fopenmp CURE_parallel.c -std=c99 -o cure
+
+_executable -lm
 mpiexec -n <number_of_processes> ./cure_executable
 ```
 
 This detailed overview covers the essential components and steps involved in the CURE clustering implementation using MPI, demonstrating how parallel processing techniques are applied to efficiently perform clustering on large datasets.
-
-
