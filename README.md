@@ -101,3 +101,8 @@ mpiexec -n <number_of_processes> ./cure_executable
 ```
 
 This detailed overview covers the essential components and steps involved in the CURE clustering implementation using MPI, demonstrating how parallel processing techniques are applied to efficiently perform clustering on large datasets.
+
+
+## Contributors
+**Yusuke Sugihara**
+**Joe El Khoury**
