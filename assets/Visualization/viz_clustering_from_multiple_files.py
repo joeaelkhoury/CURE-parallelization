@@ -2,9 +2,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
-# Load your data into Pandas DataFrames
-# For demonstration, replace these with the paths to your actual files
-
 directory = './CURE-parallelization-main/assets/Visualization'
 # file_paths = [
 #     f'{directory}/cluster_result_2000data_procs1.csv',
