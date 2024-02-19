@@ -4,16 +4,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.cm as cm
 
-# Directory containing the files
-
 directory = './CURE-parallelization-main/benchmark'
 
-# Regex patterns to find files and extract data
 file_pattern = re.compile(r'output_(\d+)(k|M)?data_procs(\d+)\.txt')
-# Updated regex pattern to match your file format
 time_pattern = re.compile(r'Clustering took ([\d.]+) seconds')
 
-# Store execution times in a dict of dicts format {data_points: {procs: time}}
 execution_times = {}
 display_format = {}
 
@@ -42,13 +37,10 @@ def calculate_metrics_and_print_time(exec_times):
 def plot_metrics(exec_times):
     plt.figure(figsize=(12, 6))
     
-    # Number of datasets
     num_datasets = len(exec_times)
     
-    # Generate a color map
     colors = cm.rainbow(np.linspace(0, 1, num_datasets))
     
-    # Prepare plotting data
     plotting_data_speedup = []
     plotting_data_efficiency = []
     
@@ -61,11 +53,9 @@ def plot_metrics(exec_times):
         plotting_data_speedup.append((data_points, procs, speedups, label))
         plotting_data_efficiency.append((data_points, procs, efficiencies, label))
     
-    # Sort by data_points for plotting
     plotting_data_speedup.sort(key=lambda x: x[0])
     plotting_data_efficiency.sort(key=lambda x: x[0])
 
-    # Plot for Speedup
     plt.subplot(1, 2, 1)
     for index, (_, procs, speedups, label) in enumerate(plotting_data_speedup):
         plt.plot(procs, speedups, marker='o', label=label, color=colors[index])
@@ -74,7 +64,6 @@ def plot_metrics(exec_times):
     plt.title('Speedup vs. Number of Processes')
     plt.legend()
 
-    # Plot for Efficiency
     plt.subplot(1, 2, 2)
     for index, (_, procs, efficiencies, label) in enumerate(plotting_data_efficiency):
         plt.plot(procs, efficiencies, marker='o', label=label, color=colors[index])
@@ -88,7 +77,6 @@ def plot_metrics(exec_times):
     plt.show()
 
 def main():
-    # Ensure the directory variable points to the correct path
     for filename in os.listdir(directory):
         match = file_pattern.match(filename)
         if match:
@@ -104,7 +92,7 @@ def main():
                         if numeric_data_points not in execution_times:
                             execution_times[numeric_data_points] = {}
                         execution_times[numeric_data_points][procs] = execution_time
-                        break  # Assumes first match is the desired one
+                        break
 
     calculate_metrics_and_print_time(execution_times)
     plot_metrics(execution_times)
