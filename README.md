@@ -16,7 +16,7 @@ Throughout this document, we'll reference several diagrams that illustrate vario
 The implementation is structured as follows:
 
 1. **MPI Initialization**: Set up the MPI environment for parallel processing.
-2. **Data Preparation**: Read the dataset and optionally stratify shuffle it for balanced distribution.
+2. **Data Preparation**: Read the dataset and  stratify shuffle it for balanced distribution.
 3. **Data Distribution**: Distribute data points among MPI processes.
 4. **Local Clustering**: Perform clustering on local data segments.
 5. **Global Clustering**: Merge local clusters into global clusters on the root process.
