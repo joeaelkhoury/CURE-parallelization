@@ -6,7 +6,7 @@ This document provides a detailed explanation of the CURE (Clustering Using Repr
 
 Throughout this document, we'll reference several diagrams that illustrate various parts of the implementation. These diagrams are located in the GitHub repository under `/main/assets/Diagrams`.
 
-- **Process**: ![MPI process Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/full.png)
+- **Process**: ![MPI process Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/full-.png)
 
 - **MPI Communication**: ![MPI communication Diagram](https://github.com/joeaelkhoury/CURE-parallelization/blob/main/assets/Diagrams/all_process.png)
 
