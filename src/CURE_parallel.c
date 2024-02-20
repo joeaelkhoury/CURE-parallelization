@@ -1,7 +1,7 @@
 // Import necessary libraries
 #include <mpi.h>       // For MPI functions
 #include <stdio.h>     // Standard input/output
-#include <stdlib.h>    // Standard library for memory allocation, process control, etc.
+#include <stdlib.h>    // Standard library for memory allocation, process control
 #include <math.h>      // Math functions
 #include <float.h>     // Limits for floating-point types
 #include <limits.h>    // Limits for integral types
