@@ -1,0 +1,1998 @@
+Process 0: Starting local merging with 1000 clusters.
+Process 0: Closest pair to merge: 587 and 847 with distance 0.000834.
+Process 0: Merged clusters 587 and 847 into one. Total active clusters now: 999.
+Process 0: Closest pair to merge: 262 and 502 with distance 0.000900.
+Process 0: Merged clusters 262 and 502 into one. Total active clusters now: 998.
+Process 0: Closest pair to merge: 578 and 967 with distance 0.001495.
+Process 0: Merged clusters 578 and 967 into one. Total active clusters now: 997.
+Process 0: Closest pair to merge: 908 and 974 with distance 0.001502.
+Process 0: Merged clusters 908 and 974 into one. Total active clusters now: 996.
+Process 0: Closest pair to merge: 497 and 629 with distance 0.001923.
+Process 0: Merged clusters 497 and 629 into one. Total active clusters now: 995.
+Process 0: Closest pair to merge: 26 and 699 with distance 0.002270.
+Process 0: Merged clusters 26 and 699 into one. Total active clusters now: 994.
+Process 0: Closest pair to merge: 760 and 964 with distance 0.002283.
+Process 0: Merged clusters 760 and 964 into one. Total active clusters now: 993.
+Process 0: Closest pair to merge: 132 and 527 with distance 0.002391.
+Process 0: Merged clusters 132 and 527 into one. Total active clusters now: 992.
+Process 0: Closest pair to merge: 162 and 322 with distance 0.002523.
+Process 0: Merged clusters 162 and 322 into one. Total active clusters now: 991.
+Process 0: Closest pair to merge: 277 and 283 with distance 0.002677.
+Process 0: Merged clusters 277 and 283 into one. Total active clusters now: 990.
+Process 0: Closest pair to merge: 271 and 875 with distance 0.002878.
+Process 0: Merged clusters 271 and 875 into one. Total active clusters now: 989.
+Process 0: Closest pair to merge: 416 and 493 with distance 0.003015.
+Process 0: Merged clusters 416 and 493 into one. Total active clusters now: 988.
+Process 0: Closest pair to merge: 250 and 698 with distance 0.003017.
+Process 0: Merged clusters 250 and 698 into one. Total active clusters now: 987.
+Process 0: Closest pair to merge: 422 and 924 with distance 0.003289.
+Process 0: Merged clusters 422 and 924 into one. Total active clusters now: 986.
+Process 0: Closest pair to merge: 182 and 223 with distance 0.003341.
+Process 0: Merged clusters 182 and 223 into one. Total active clusters now: 985.
+Process 0: Closest pair to merge: 305 and 404 with distance 0.003790.
+Process 0: Merged clusters 305 and 404 into one. Total active clusters now: 984.
+Process 0: Closest pair to merge: 123 and 854 with distance 0.003827.
+Process 0: Merged clusters 123 and 854 into one. Total active clusters now: 983.
+Process 0: Closest pair to merge: 589 and 631 with distance 0.003984.
+Process 0: Merged clusters 589 and 631 into one. Total active clusters now: 982.
+Process 0: Closest pair to merge: 639 and 679 with distance 0.004172.
+Process 0: Merged clusters 639 and 679 into one. Total active clusters now: 981.
+Process 0: Closest pair to merge: 486 and 839 with distance 0.004180.
+Process 0: Merged clusters 486 and 839 into one. Total active clusters now: 980.
+Process 0: Closest pair to merge: 571 and 870 with distance 0.004375.
+Process 0: Merged clusters 571 and 870 into one. Total active clusters now: 979.
+Process 0: Closest pair to merge: 280 and 957 with distance 0.004421.
+Process 0: Merged clusters 280 and 957 into one. Total active clusters now: 978.
+Process 0: Closest pair to merge: 150 and 461 with distance 0.004425.
+Process 0: Merged clusters 150 and 461 into one. Total active clusters now: 977.
+Process 0: Closest pair to merge: 87 and 261 with distance 0.004442.
+Process 0: Merged clusters 87 and 261 into one. Total active clusters now: 976.
+Process 0: Closest pair to merge: 138 and 892 with distance 0.004529.
+Process 0: Merged clusters 138 and 892 into one. Total active clusters now: 975.
+Process 0: Closest pair to merge: 532 and 650 with distance 0.004559.
+Process 0: Merged clusters 532 and 650 into one. Total active clusters now: 974.
+Process 0: Closest pair to merge: 122 and 896 with distance 0.004586.
+Process 0: Merged clusters 122 and 896 into one. Total active clusters now: 973.
+Process 0: Closest pair to merge: 310 and 649 with distance 0.004636.
+Process 0: Merged clusters 310 and 649 into one. Total active clusters now: 972.
+Process 0: Closest pair to merge: 130 and 835 with distance 0.004800.
+Process 0: Merged clusters 130 and 835 into one. Total active clusters now: 971.
+Process 0: Closest pair to merge: 345 and 844 with distance 0.004842.
+Process 0: Merged clusters 345 and 844 into one. Total active clusters now: 970.
+Process 0: Closest pair to merge: 197 and 943 with distance 0.005023.
+Process 0: Merged clusters 197 and 943 into one. Total active clusters now: 969.
+Process 0: Closest pair to merge: 172 and 223 with distance 0.005113.
+Process 0: Merged clusters 172 and 223 into one. Total active clusters now: 968.
+Process 0: Closest pair to merge: 843 and 881 with distance 0.005439.
+Process 0: Merged clusters 843 and 881 into one. Total active clusters now: 967.
+Process 0: Closest pair to merge: 581 and 675 with distance 0.005469.
+Process 0: Merged clusters 581 and 675 into one. Total active clusters now: 966.
+Process 0: Closest pair to merge: 638 and 716 with distance 0.005575.
+Process 0: Merged clusters 638 and 716 into one. Total active clusters now: 965.
+Process 0: Closest pair to merge: 220 and 412 with distance 0.005620.
+Process 0: Merged clusters 220 and 412 into one. Total active clusters now: 964.
+Process 0: Closest pair to merge: 190 and 236 with distance 0.005678.
+Process 0: Merged clusters 190 and 236 into one. Total active clusters now: 963.
+Process 0: Closest pair to merge: 344 and 928 with distance 0.005750.
+Process 0: Merged clusters 344 and 928 into one. Total active clusters now: 962.
+Process 0: Closest pair to merge: 196 and 324 with distance 0.005820.
+Process 0: Merged clusters 196 and 324 into one. Total active clusters now: 961.
+Process 0: Closest pair to merge: 10 and 864 with distance 0.005862.
+Process 0: Merged clusters 10 and 864 into one. Total active clusters now: 960.
+Process 0: Closest pair to merge: 19 and 811 with distance 0.005883.
+Process 0: Merged clusters 19 and 811 into one. Total active clusters now: 959.
+Process 0: Closest pair to merge: 459 and 682 with distance 0.005925.
+Process 0: Merged clusters 459 and 682 into one. Total active clusters now: 958.
+Process 0: Closest pair to merge: 71 and 851 with distance 0.006149.
+Process 0: Merged clusters 71 and 851 into one. Total active clusters now: 957.
+Process 0: Closest pair to merge: 217 and 395 with distance 0.006373.
+Process 0: Merged clusters 217 and 395 into one. Total active clusters now: 956.
+Process 0: Closest pair to merge: 24 and 626 with distance 0.006467.
+Process 0: Merged clusters 24 and 626 into one. Total active clusters now: 955.
+Process 0: Closest pair to merge: 123 and 892 with distance 0.006599.
+Process 0: Merged clusters 123 and 892 into one. Total active clusters now: 954.
+Process 0: Closest pair to merge: 207 and 461 with distance 0.006633.
+Process 0: Merged clusters 207 and 461 into one. Total active clusters now: 953.
+Process 0: Closest pair to merge: 144 and 592 with distance 0.006667.
+Process 0: Merged clusters 144 and 592 into one. Total active clusters now: 952.
+Process 0: Closest pair to merge: 372 and 813 with distance 0.006688.
+Process 0: Merged clusters 372 and 813 into one. Total active clusters now: 951.
+Process 0: Closest pair to merge: 720 and 751 with distance 0.006688.
+Process 0: Merged clusters 720 and 751 into one. Total active clusters now: 950.
+Process 0: Closest pair to merge: 208 and 622 with distance 0.006756.
+Process 0: Merged clusters 208 and 622 into one. Total active clusters now: 949.
+Process 0: Closest pair to merge: 110 and 214 with distance 0.006954.
+Process 0: Merged clusters 110 and 214 into one. Total active clusters now: 948.
+Process 0: Closest pair to merge: 301 and 514 with distance 0.007082.
+Process 0: Merged clusters 301 and 514 into one. Total active clusters now: 947.
+Process 0: Closest pair to merge: 377 and 747 with distance 0.007096.
+Process 0: Merged clusters 377 and 747 into one. Total active clusters now: 946.
+Process 0: Closest pair to merge: 427 and 477 with distance 0.007117.
+Process 0: Merged clusters 427 and 477 into one. Total active clusters now: 945.
+Process 0: Closest pair to merge: 31 and 568 with distance 0.007210.
+Process 0: Merged clusters 31 and 568 into one. Total active clusters now: 944.
+Process 0: Closest pair to merge: 704 and 807 with distance 0.007245.
+Process 0: Merged clusters 704 and 807 into one. Total active clusters now: 943.
+Process 0: Closest pair to merge: 866 and 918 with distance 0.007510.
+Process 0: Merged clusters 866 and 918 into one. Total active clusters now: 942.
+Process 0: Closest pair to merge: 32 and 835 with distance 0.007553.
+Process 0: Merged clusters 32 and 835 into one. Total active clusters now: 941.
+Process 0: Closest pair to merge: 828 and 936 with distance 0.007607.
+Process 0: Merged clusters 828 and 936 into one. Total active clusters now: 940.
+Process 0: Closest pair to merge: 820 and 835 with distance 0.007641.
+Process 0: Merged clusters 820 and 835 into one. Total active clusters now: 939.
+Process 0: Closest pair to merge: 221 and 730 with distance 0.007690.
+Process 0: Merged clusters 221 and 730 into one. Total active clusters now: 938.
+Process 0: Closest pair to merge: 219 and 467 with distance 0.007708.
+Process 0: Merged clusters 219 and 467 into one. Total active clusters now: 937.
+Process 0: Closest pair to merge: 639 and 657 with distance 0.007725.
+Process 0: Merged clusters 639 and 657 into one. Total active clusters now: 936.
+Process 0: Closest pair to merge: 22 and 76 with distance 0.007751.
+Process 0: Merged clusters 22 and 76 into one. Total active clusters now: 935.
+Process 0: Closest pair to merge: 225 and 462 with distance 0.007836.
+Process 0: Merged clusters 225 and 462 into one. Total active clusters now: 934.
+Process 0: Closest pair to merge: 514 and 597 with distance 0.007871.
+Process 0: Merged clusters 514 and 597 into one. Total active clusters now: 933.
+Process 0: Closest pair to merge: 54 and 257 with distance 0.007942.
+Process 0: Merged clusters 54 and 257 into one. Total active clusters now: 932.
+Process 0: Closest pair to merge: 247 and 360 with distance 0.007964.
+Process 0: Merged clusters 247 and 360 into one. Total active clusters now: 931.
+Process 0: Closest pair to merge: 431 and 701 with distance 0.008044.
+Process 0: Merged clusters 431 and 701 into one. Total active clusters now: 930.
+Process 0: Closest pair to merge: 10 and 641 with distance 0.008065.
+Process 0: Merged clusters 10 and 641 into one. Total active clusters now: 929.
+Process 0: Closest pair to merge: 38 and 198 with distance 0.008185.
+Process 0: Merged clusters 38 and 198 into one. Total active clusters now: 928.
+Process 0: Closest pair to merge: 379 and 520 with distance 0.008187.
+Process 0: Merged clusters 379 and 520 into one. Total active clusters now: 927.
+Process 0: Closest pair to merge: 569 and 707 with distance 0.008431.
+Process 0: Merged clusters 569 and 707 into one. Total active clusters now: 926.
+Process 0: Closest pair to merge: 720 and 765 with distance 0.008456.
+Process 0: Merged clusters 720 and 765 into one. Total active clusters now: 925.
+Process 0: Closest pair to merge: 207 and 837 with distance 0.008535.
+Process 0: Merged clusters 207 and 837 into one. Total active clusters now: 924.
+Process 0: Closest pair to merge: 97 and 187 with distance 0.008658.
+Process 0: Merged clusters 97 and 187 into one. Total active clusters now: 923.
+Process 0: Closest pair to merge: 19 and 443 with distance 0.008664.
+Process 0: Merged clusters 19 and 443 into one. Total active clusters now: 922.
+Process 0: Closest pair to merge: 642 and 911 with distance 0.008692.
+Process 0: Merged clusters 642 and 911 into one. Total active clusters now: 921.
+Process 0: Closest pair to merge: 344 and 640 with distance 0.008781.
+Process 0: Merged clusters 344 and 640 into one. Total active clusters now: 920.
+Process 0: Closest pair to merge: 480 and 598 with distance 0.009192.
+Process 0: Merged clusters 480 and 598 into one. Total active clusters now: 919.
+Process 0: Closest pair to merge: 354 and 446 with distance 0.009245.
+Process 0: Merged clusters 354 and 446 into one. Total active clusters now: 918.
+Process 0: Closest pair to merge: 0 and 454 with distance 0.009292.
+Process 0: Merged clusters 0 and 454 into one. Total active clusters now: 917.
+Process 0: Closest pair to merge: 139 and 564 with distance 0.009378.
+Process 0: Merged clusters 139 and 564 into one. Total active clusters now: 916.
+Process 0: Closest pair to merge: 168 and 607 with distance 0.009515.
+Process 0: Merged clusters 168 and 607 into one. Total active clusters now: 915.
+Process 0: Closest pair to merge: 234 and 713 with distance 0.009572.
+Process 0: Merged clusters 234 and 713 into one. Total active clusters now: 914.
+Process 0: Closest pair to merge: 268 and 303 with distance 0.009618.
+Process 0: Merged clusters 268 and 303 into one. Total active clusters now: 913.
+Process 0: Closest pair to merge: 376 and 548 with distance 0.009636.
+Process 0: Merged clusters 376 and 548 into one. Total active clusters now: 912.
+Process 0: Closest pair to merge: 413 and 869 with distance 0.009659.
+Process 0: Merged clusters 413 and 869 into one. Total active clusters now: 911.
+Process 0: Closest pair to merge: 170 and 709 with distance 0.009686.
+Process 0: Merged clusters 170 and 709 into one. Total active clusters now: 910.
+Process 0: Closest pair to merge: 375 and 485 with distance 0.009706.
+Process 0: Merged clusters 375 and 485 into one. Total active clusters now: 909.
+Process 0: Closest pair to merge: 302 and 616 with distance 0.009749.
+Process 0: Merged clusters 302 and 616 into one. Total active clusters now: 908.
+Process 0: Closest pair to merge: 26 and 85 with distance 0.009795.
+Process 0: Merged clusters 26 and 85 into one. Total active clusters now: 907.
+Process 0: Closest pair to merge: 44 and 724 with distance 0.009818.
+Process 0: Merged clusters 44 and 724 into one. Total active clusters now: 906.
+Process 0: Closest pair to merge: 188 and 677 with distance 0.010029.
+Process 0: Merged clusters 188 and 677 into one. Total active clusters now: 905.
+Process 0: Closest pair to merge: 314 and 638 with distance 0.010043.
+Process 0: Merged clusters 314 and 638 into one. Total active clusters now: 904.
+Process 0: Closest pair to merge: 187 and 814 with distance 0.010139.
+Process 0: Merged clusters 187 and 814 into one. Total active clusters now: 903.
+Process 0: Closest pair to merge: 12 and 182 with distance 0.010159.
+Process 0: Merged clusters 12 and 182 into one. Total active clusters now: 902.
+Process 0: Closest pair to merge: 114 and 128 with distance 0.010170.
+Process 0: Merged clusters 114 and 128 into one. Total active clusters now: 901.
+Process 0: Closest pair to merge: 679 and 797 with distance 0.010319.
+Process 0: Merged clusters 679 and 797 into one. Total active clusters now: 900.
+Process 0: Closest pair to merge: 11 and 798 with distance 0.010344.
+Process 0: Merged clusters 11 and 798 into one. Total active clusters now: 899.
+Process 0: Closest pair to merge: 450 and 712 with distance 0.010373.
+Process 0: Merged clusters 450 and 712 into one. Total active clusters now: 898.
+Process 0: Closest pair to merge: 97 and 543 with distance 0.010375.
+Process 0: Merged clusters 97 and 543 into one. Total active clusters now: 897.
+Process 0: Closest pair to merge: 249 and 573 with distance 0.010441.
+Process 0: Merged clusters 249 and 573 into one. Total active clusters now: 896.
+Process 0: Closest pair to merge: 223 and 546 with distance 0.010468.
+Process 0: Merged clusters 223 and 546 into one. Total active clusters now: 895.
+Process 0: Closest pair to merge: 487 and 523 with distance 0.010539.
+Process 0: Merged clusters 487 and 523 into one. Total active clusters now: 894.
+Process 0: Closest pair to merge: 78 and 436 with distance 0.010608.
+Process 0: Merged clusters 78 and 436 into one. Total active clusters now: 893.
+Process 0: Closest pair to merge: 543 and 697 with distance 0.010760.
+Process 0: Merged clusters 543 and 697 into one. Total active clusters now: 892.
+Process 0: Closest pair to merge: 330 and 841 with distance 0.010851.
+Process 0: Merged clusters 330 and 841 into one. Total active clusters now: 891.
+Process 0: Closest pair to merge: 269 and 374 with distance 0.010880.
+Process 0: Merged clusters 269 and 374 into one. Total active clusters now: 890.
+Process 0: Closest pair to merge: 452 and 732 with distance 0.010988.
+Process 0: Merged clusters 452 and 732 into one. Total active clusters now: 889.
+Process 0: Closest pair to merge: 723 and 781 with distance 0.011058.
+Process 0: Merged clusters 723 and 781 into one. Total active clusters now: 888.
+Process 0: Closest pair to merge: 526 and 733 with distance 0.011074.
+Process 0: Merged clusters 526 and 733 into one. Total active clusters now: 887.
+Process 0: Closest pair to merge: 369 and 499 with distance 0.011090.
+Process 0: Merged clusters 369 and 499 into one. Total active clusters now: 886.
+Process 0: Closest pair to merge: 298 and 480 with distance 0.011131.
+Process 0: Merged clusters 298 and 480 into one. Total active clusters now: 885.
+Process 0: Closest pair to merge: 266 and 524 with distance 0.011151.
+Process 0: Merged clusters 266 and 524 into one. Total active clusters now: 884.
+Process 0: Closest pair to merge: 373 and 855 with distance 0.011169.
+Process 0: Merged clusters 373 and 855 into one. Total active clusters now: 883.
+Process 0: Closest pair to merge: 8 and 596 with distance 0.011177.
+Process 0: Merged clusters 8 and 596 into one. Total active clusters now: 882.
+Process 0: Closest pair to merge: 310 and 655 with distance 0.011214.
+Process 0: Merged clusters 310 and 655 into one. Total active clusters now: 881.
+Process 0: Closest pair to merge: 418 and 578 with distance 0.011323.
+Process 0: Merged clusters 418 and 578 into one. Total active clusters now: 880.
+Process 0: Closest pair to merge: 447 and 509 with distance 0.011339.
+Process 0: Merged clusters 447 and 509 into one. Total active clusters now: 879.
+Process 0: Closest pair to merge: 462 and 735 with distance 0.011368.
+Process 0: Merged clusters 462 and 735 into one. Total active clusters now: 878.
+Process 0: Closest pair to merge: 4 and 342 with distance 0.011420.
+Process 0: Merged clusters 4 and 342 into one. Total active clusters now: 877.
+Process 0: Closest pair to merge: 265 and 360 with distance 0.011429.
+Process 0: Merged clusters 265 and 360 into one. Total active clusters now: 876.
+Process 0: Closest pair to merge: 117 and 658 with distance 0.011471.
+Process 0: Merged clusters 117 and 658 into one. Total active clusters now: 875.
+Process 0: Closest pair to merge: 608 and 652 with distance 0.011593.
+Process 0: Merged clusters 608 and 652 into one. Total active clusters now: 874.
+Process 0: Closest pair to merge: 370 and 821 with distance 0.011685.
+Process 0: Merged clusters 370 and 821 into one. Total active clusters now: 873.
+Process 0: Closest pair to merge: 58 and 506 with distance 0.011713.
+Process 0: Merged clusters 58 and 506 into one. Total active clusters now: 872.
+Process 0: Closest pair to merge: 171 and 738 with distance 0.011727.
+Process 0: Merged clusters 171 and 738 into one. Total active clusters now: 871.
+Process 0: Closest pair to merge: 304 and 470 with distance 0.011750.
+Process 0: Merged clusters 304 and 470 into one. Total active clusters now: 870.
+Process 0: Closest pair to merge: 272 and 852 with distance 0.011802.
+Process 0: Merged clusters 272 and 852 into one. Total active clusters now: 869.
+Process 0: Closest pair to merge: 563 and 782 with distance 0.011818.
+Process 0: Merged clusters 563 and 782 into one. Total active clusters now: 868.
+Process 0: Closest pair to merge: 372 and 828 with distance 0.011825.
+Process 0: Merged clusters 372 and 828 into one. Total active clusters now: 867.
+Process 0: Closest pair to merge: 384 and 424 with distance 0.011857.
+Process 0: Merged clusters 384 and 424 into one. Total active clusters now: 866.
+Process 0: Closest pair to merge: 127 and 143 with distance 0.011940.
+Process 0: Merged clusters 127 and 143 into one. Total active clusters now: 865.
+Process 0: Closest pair to merge: 99 and 506 with distance 0.012007.
+Process 0: Merged clusters 99 and 506 into one. Total active clusters now: 864.
+Process 0: Closest pair to merge: 6 and 565 with distance 0.012048.
+Process 0: Merged clusters 6 and 565 into one. Total active clusters now: 863.
+Process 0: Closest pair to merge: 539 and 734 with distance 0.012057.
+Process 0: Merged clusters 539 and 734 into one. Total active clusters now: 862.
+Process 0: Closest pair to merge: 610 and 850 with distance 0.012082.
+Process 0: Merged clusters 610 and 850 into one. Total active clusters now: 861.
+Process 0: Closest pair to merge: 359 and 612 with distance 0.012105.
+Process 0: Merged clusters 359 and 612 into one. Total active clusters now: 860.
+Process 0: Closest pair to merge: 89 and 562 with distance 0.012112.
+Process 0: Merged clusters 89 and 562 into one. Total active clusters now: 859.
+Process 0: Closest pair to merge: 51 and 86 with distance 0.012139.
+Process 0: Merged clusters 51 and 86 into one. Total active clusters now: 858.
+Process 0: Closest pair to merge: 100 and 200 with distance 0.012242.
+Process 0: Merged clusters 100 and 200 into one. Total active clusters now: 857.
+Process 0: Closest pair to merge: 346 and 447 with distance 0.012503.
+Process 0: Merged clusters 346 and 447 into one. Total active clusters now: 856.
+Process 0: Closest pair to merge: 244 and 534 with distance 0.012513.
+Process 0: Merged clusters 244 and 534 into one. Total active clusters now: 855.
+Process 0: Closest pair to merge: 183 and 357 with distance 0.012876.
+Process 0: Merged clusters 183 and 357 into one. Total active clusters now: 854.
+Process 0: Closest pair to merge: 252 and 352 with distance 0.012888.
+Process 0: Merged clusters 252 and 352 into one. Total active clusters now: 853.
+Process 0: Closest pair to merge: 48 and 188 with distance 0.012963.
+Process 0: Merged clusters 48 and 188 into one. Total active clusters now: 852.
+Process 0: Closest pair to merge: 513 and 689 with distance 0.012980.
+Process 0: Merged clusters 513 and 689 into one. Total active clusters now: 851.
+Process 0: Closest pair to merge: 468 and 610 with distance 0.012988.
+Process 0: Merged clusters 468 and 610 into one. Total active clusters now: 850.
+Process 0: Closest pair to merge: 424 and 683 with distance 0.012989.
+Process 0: Merged clusters 424 and 683 into one. Total active clusters now: 849.
+Process 0: Closest pair to merge: 536 and 744 with distance 0.012997.
+Process 0: Merged clusters 536 and 744 into one. Total active clusters now: 848.
+Process 0: Closest pair to merge: 529 and 601 with distance 0.013028.
+Process 0: Merged clusters 529 and 601 into one. Total active clusters now: 847.
+Process 0: Closest pair to merge: 76 and 233 with distance 0.013181.
+Process 0: Merged clusters 76 and 233 into one. Total active clusters now: 846.
+Process 0: Closest pair to merge: 274 and 500 with distance 0.013254.
+Process 0: Merged clusters 274 and 500 into one. Total active clusters now: 845.
+Process 0: Closest pair to merge: 146 and 176 with distance 0.013265.
+Process 0: Merged clusters 146 and 176 into one. Total active clusters now: 844.
+Process 0: Closest pair to merge: 114 and 286 with distance 0.013379.
+Process 0: Merged clusters 114 and 286 into one. Total active clusters now: 843.
+Process 0: Closest pair to merge: 599 and 655 with distance 0.013454.
+Process 0: Merged clusters 599 and 655 into one. Total active clusters now: 842.
+Process 0: Closest pair to merge: 11 and 119 with distance 0.013769.
+Process 0: Merged clusters 11 and 119 into one. Total active clusters now: 841.
+Process 0: Closest pair to merge: 214 and 433 with distance 0.013819.
+Process 0: Merged clusters 214 and 433 into one. Total active clusters now: 840.
+Process 0: Closest pair to merge: 228 and 251 with distance 0.013988.
+Process 0: Merged clusters 228 and 251 into one. Total active clusters now: 839.
+Process 0: Closest pair to merge: 172 and 232 with distance 0.013991.
+Process 0: Merged clusters 172 and 232 into one. Total active clusters now: 838.
+Process 0: Closest pair to merge: 20 and 133 with distance 0.014013.
+Process 0: Merged clusters 20 and 133 into one. Total active clusters now: 837.
+Process 0: Closest pair to merge: 276 and 621 with distance 0.014038.
+Process 0: Merged clusters 276 and 621 into one. Total active clusters now: 836.
+Process 0: Closest pair to merge: 499 and 773 with distance 0.014198.
+Process 0: Merged clusters 499 and 773 into one. Total active clusters now: 835.
+Process 0: Closest pair to merge: 76 and 326 with distance 0.014223.
+Process 0: Merged clusters 76 and 326 into one. Total active clusters now: 834.
+Process 0: Closest pair to merge: 290 and 462 with distance 0.014282.
+Process 0: Merged clusters 290 and 462 into one. Total active clusters now: 833.
+Process 0: Closest pair to merge: 138 and 477 with distance 0.014362.
+Process 0: Merged clusters 138 and 477 into one. Total active clusters now: 832.
+Process 0: Closest pair to merge: 303 and 742 with distance 0.014392.
+Process 0: Merged clusters 303 and 742 into one. Total active clusters now: 831.
+Process 0: Closest pair to merge: 363 and 473 with distance 0.014463.
+Process 0: Merged clusters 363 and 473 into one. Total active clusters now: 830.
+Process 0: Closest pair to merge: 178 and 756 with distance 0.014477.
+Process 0: Merged clusters 178 and 756 into one. Total active clusters now: 829.
+Process 0: Closest pair to merge: 169 and 650 with distance 0.014482.
+Process 0: Merged clusters 169 and 650 into one. Total active clusters now: 828.
+Process 0: Closest pair to merge: 418 and 783 with distance 0.014508.
+Process 0: Merged clusters 418 and 783 into one. Total active clusters now: 827.
+Process 0: Closest pair to merge: 195 and 753 with distance 0.014536.
+Process 0: Merged clusters 195 and 753 into one. Total active clusters now: 826.
+Process 0: Closest pair to merge: 10 and 403 with distance 0.014579.
+Process 0: Merged clusters 10 and 403 into one. Total active clusters now: 825.
+Process 0: Closest pair to merge: 472 and 759 with distance 0.014617.
+Process 0: Merged clusters 472 and 759 into one. Total active clusters now: 824.
+Process 0: Closest pair to merge: 604 and 735 with distance 0.014651.
+Process 0: Merged clusters 604 and 735 into one. Total active clusters now: 823.
+Process 0: Closest pair to merge: 37 and 705 with distance 0.014695.
+Process 0: Merged clusters 37 and 705 into one. Total active clusters now: 822.
+Process 0: Closest pair to merge: 259 and 485 with distance 0.014729.
+Process 0: Merged clusters 259 and 485 into one. Total active clusters now: 821.
+Process 0: Closest pair to merge: 391 and 530 with distance 0.014751.
+Process 0: Merged clusters 391 and 530 into one. Total active clusters now: 820.
+Process 0: Closest pair to merge: 361 and 748 with distance 0.014787.
+Process 0: Merged clusters 361 and 748 into one. Total active clusters now: 819.
+Process 0: Closest pair to merge: 110 and 466 with distance 0.014803.
+Process 0: Merged clusters 110 and 466 into one. Total active clusters now: 818.
+Process 0: Closest pair to merge: 346 and 432 with distance 0.014864.
+Process 0: Merged clusters 346 and 432 into one. Total active clusters now: 817.
+Process 0: Closest pair to merge: 61 and 226 with distance 0.014882.
+Process 0: Merged clusters 61 and 226 into one. Total active clusters now: 816.
+Process 0: Closest pair to merge: 462 and 480 with distance 0.014922.
+Process 0: Merged clusters 462 and 480 into one. Total active clusters now: 815.
+Process 0: Closest pair to merge: 14 and 336 with distance 0.014928.
+Process 0: Merged clusters 14 and 336 into one. Total active clusters now: 814.
+Process 0: Closest pair to merge: 155 and 174 with distance 0.014968.
+Process 0: Merged clusters 155 and 174 into one. Total active clusters now: 813.
+Process 0: Closest pair to merge: 549 and 633 with distance 0.015178.
+Process 0: Merged clusters 549 and 633 into one. Total active clusters now: 812.
+Process 0: Closest pair to merge: 346 and 375 with distance 0.015207.
+Process 0: Merged clusters 346 and 375 into one. Total active clusters now: 811.
+Process 0: Closest pair to merge: 395 and 810 with distance 0.015309.
+Process 0: Merged clusters 395 and 810 into one. Total active clusters now: 810.
+Process 0: Closest pair to merge: 385 and 418 with distance 0.015335.
+Process 0: Merged clusters 385 and 418 into one. Total active clusters now: 809.
+Process 0: Closest pair to merge: 385 and 756 with distance 0.014767.
+Process 0: Merged clusters 385 and 756 into one. Total active clusters now: 808.
+Process 0: Closest pair to merge: 25 and 562 with distance 0.015478.
+Process 0: Merged clusters 25 and 562 into one. Total active clusters now: 807.
+Process 0: Closest pair to merge: 113 and 387 with distance 0.015479.
+Process 0: Merged clusters 113 and 387 into one. Total active clusters now: 806.
+Process 0: Closest pair to merge: 0 and 654 with distance 0.015667.
+Process 0: Merged clusters 0 and 654 into one. Total active clusters now: 805.
+Process 0: Closest pair to merge: 22 and 472 with distance 0.015677.
+Process 0: Merged clusters 22 and 472 into one. Total active clusters now: 804.
+Process 0: Closest pair to merge: 554 and 560 with distance 0.015706.
+Process 0: Merged clusters 554 and 560 into one. Total active clusters now: 803.
+Process 0: Closest pair to merge: 44 and 624 with distance 0.015732.
+Process 0: Merged clusters 44 and 624 into one. Total active clusters now: 802.
+Process 0: Closest pair to merge: 306 and 615 with distance 0.015766.
+Process 0: Merged clusters 306 and 615 into one. Total active clusters now: 801.
+Process 0: Closest pair to merge: 92 and 674 with distance 0.015791.
+Process 0: Merged clusters 92 and 674 into one. Total active clusters now: 800.
+Process 0: Closest pair to merge: 371 and 460 with distance 0.015826.
+Process 0: Merged clusters 371 and 460 into one. Total active clusters now: 799.
+Process 0: Closest pair to merge: 148 and 345 with distance 0.016016.
+Process 0: Merged clusters 148 and 345 into one. Total active clusters now: 798.
+Process 0: Closest pair to merge: 491 and 571 with distance 0.016033.
+Process 0: Merged clusters 491 and 571 into one. Total active clusters now: 797.
+Process 0: Closest pair to merge: 164 and 550 with distance 0.016059.
+Process 0: Merged clusters 164 and 550 into one. Total active clusters now: 796.
+Process 0: Closest pair to merge: 733 and 743 with distance 0.016078.
+Process 0: Merged clusters 733 and 743 into one. Total active clusters now: 795.
+Process 0: Closest pair to merge: 299 and 776 with distance 0.016175.
+Process 0: Merged clusters 299 and 776 into one. Total active clusters now: 794.
+Process 0: Closest pair to merge: 200 and 403 with distance 0.016309.
+Process 0: Merged clusters 200 and 403 into one. Total active clusters now: 793.
+Process 0: Closest pair to merge: 209 and 577 with distance 0.016328.
+Process 0: Merged clusters 209 and 577 into one. Total active clusters now: 792.
+Process 0: Closest pair to merge: 336 and 422 with distance 0.016331.
+Process 0: Merged clusters 336 and 422 into one. Total active clusters now: 791.
+Process 0: Closest pair to merge: 342 and 344 with distance 0.016390.
+Process 0: Merged clusters 342 and 344 into one. Total active clusters now: 790.
+Process 0: Closest pair to merge: 98 and 385 with distance 0.016400.
+Process 0: Merged clusters 98 and 385 into one. Total active clusters now: 789.
+Process 0: Closest pair to merge: 253 and 416 with distance 0.016500.
+Process 0: Merged clusters 253 and 416 into one. Total active clusters now: 788.
+Process 0: Closest pair to merge: 86 and 716 with distance 0.016501.
+Process 0: Merged clusters 86 and 716 into one. Total active clusters now: 787.
+Process 0: Closest pair to merge: 321 and 774 with distance 0.016536.
+Process 0: Merged clusters 321 and 774 into one. Total active clusters now: 786.
+Process 0: Closest pair to merge: 442 and 462 with distance 0.016554.
+Process 0: Merged clusters 442 and 462 into one. Total active clusters now: 785.
+Process 0: Closest pair to merge: 295 and 747 with distance 0.016559.
+Process 0: Merged clusters 295 and 747 into one. Total active clusters now: 784.
+Process 0: Closest pair to merge: 20 and 399 with distance 0.016621.
+Process 0: Merged clusters 20 and 399 into one. Total active clusters now: 783.
+Process 0: Closest pair to merge: 448 and 502 with distance 0.016656.
+Process 0: Merged clusters 448 and 502 into one. Total active clusters now: 782.
+Process 0: Closest pair to merge: 304 and 748 with distance 0.016665.
+Process 0: Merged clusters 304 and 748 into one. Total active clusters now: 781.
+Process 0: Closest pair to merge: 58 and 771 with distance 0.016684.
+Process 0: Merged clusters 58 and 771 into one. Total active clusters now: 780.
+Process 0: Closest pair to merge: 71 and 234 with distance 0.016821.
+Process 0: Merged clusters 71 and 234 into one. Total active clusters now: 779.
+Process 0: Closest pair to merge: 350 and 551 with distance 0.016903.
+Process 0: Merged clusters 350 and 551 into one. Total active clusters now: 778.
+Process 0: Closest pair to merge: 43 and 762 with distance 0.016937.
+Process 0: Merged clusters 43 and 762 into one. Total active clusters now: 777.
+Process 0: Closest pair to merge: 167 and 628 with distance 0.016990.
+Process 0: Merged clusters 167 and 628 into one. Total active clusters now: 776.
+Process 0: Closest pair to merge: 127 and 408 with distance 0.017003.
+Process 0: Merged clusters 127 and 408 into one. Total active clusters now: 775.
+Process 0: Closest pair to merge: 152 and 404 with distance 0.017134.
+Process 0: Merged clusters 152 and 404 into one. Total active clusters now: 774.
+Process 0: Closest pair to merge: 37 and 465 with distance 0.017146.
+Process 0: Merged clusters 37 and 465 into one. Total active clusters now: 773.
+Process 0: Closest pair to merge: 16 and 703 with distance 0.017538.
+Process 0: Merged clusters 16 and 703 into one. Total active clusters now: 772.
+Process 0: Closest pair to merge: 145 and 267 with distance 0.017557.
+Process 0: Merged clusters 145 and 267 into one. Total active clusters now: 771.
+Process 0: Closest pair to merge: 128 and 211 with distance 0.017567.
+Process 0: Merged clusters 128 and 211 into one. Total active clusters now: 770.
+Process 0: Closest pair to merge: 6 and 96 with distance 0.017614.
+Process 0: Merged clusters 6 and 96 into one. Total active clusters now: 769.
+Process 0: Closest pair to merge: 394 and 664 with distance 0.017692.
+Process 0: Merged clusters 394 and 664 into one. Total active clusters now: 768.
+Process 0: Closest pair to merge: 550 and 710 with distance 0.017782.
+Process 0: Merged clusters 550 and 710 into one. Total active clusters now: 767.
+Process 0: Closest pair to merge: 187 and 240 with distance 0.017800.
+Process 0: Merged clusters 187 and 240 into one. Total active clusters now: 766.
+Process 0: Closest pair to merge: 295 and 542 with distance 0.017884.
+Process 0: Merged clusters 295 and 542 into one. Total active clusters now: 765.
+Process 0: Closest pair to merge: 118 and 630 with distance 0.018069.
+Process 0: Merged clusters 118 and 630 into one. Total active clusters now: 764.
+Process 0: Closest pair to merge: 273 and 421 with distance 0.018085.
+Process 0: Merged clusters 273 and 421 into one. Total active clusters now: 763.
+Process 0: Closest pair to merge: 48 and 388 with distance 0.018219.
+Process 0: Merged clusters 48 and 388 into one. Total active clusters now: 762.
+Process 0: Closest pair to merge: 3 and 432 with distance 0.018228.
+Process 0: Merged clusters 3 and 432 into one. Total active clusters now: 761.
+Process 0: Closest pair to merge: 250 and 401 with distance 0.018338.
+Process 0: Merged clusters 250 and 401 into one. Total active clusters now: 760.
+Process 0: Closest pair to merge: 38 and 132 with distance 0.018421.
+Process 0: Merged clusters 38 and 132 into one. Total active clusters now: 759.
+Process 0: Closest pair to merge: 362 and 586 with distance 0.018433.
+Process 0: Merged clusters 362 and 586 into one. Total active clusters now: 758.
+Process 0: Closest pair to merge: 609 and 705 with distance 0.018449.
+Process 0: Merged clusters 609 and 705 into one. Total active clusters now: 757.
+Process 0: Closest pair to merge: 197 and 504 with distance 0.018487.
+Process 0: Merged clusters 197 and 504 into one. Total active clusters now: 756.
+Process 0: Closest pair to merge: 56 and 415 with distance 0.018664.
+Process 0: Merged clusters 56 and 415 into one. Total active clusters now: 755.
+Process 0: Closest pair to merge: 33 and 601 with distance 0.018678.
+Process 0: Merged clusters 33 and 601 into one. Total active clusters now: 754.
+Process 0: Closest pair to merge: 231 and 309 with distance 0.018696.
+Process 0: Merged clusters 231 and 309 into one. Total active clusters now: 753.
+Process 0: Closest pair to merge: 469 and 631 with distance 0.018729.
+Process 0: Merged clusters 469 and 631 into one. Total active clusters now: 752.
+Process 0: Closest pair to merge: 600 and 677 with distance 0.018785.
+Process 0: Merged clusters 600 and 677 into one. Total active clusters now: 751.
+Process 0: Closest pair to merge: 96 and 214 with distance 0.018798.
+Process 0: Merged clusters 96 and 214 into one. Total active clusters now: 750.
+Process 0: Closest pair to merge: 169 and 497 with distance 0.018996.
+Process 0: Merged clusters 169 and 497 into one. Total active clusters now: 749.
+Process 0: Closest pair to merge: 47 and 613 with distance 0.018999.
+Process 0: Merged clusters 47 and 613 into one. Total active clusters now: 748.
+Process 0: Closest pair to merge: 147 and 153 with distance 0.019027.
+Process 0: Merged clusters 147 and 153 into one. Total active clusters now: 747.
+Process 0: Closest pair to merge: 277 and 673 with distance 0.019036.
+Process 0: Merged clusters 277 and 673 into one. Total active clusters now: 746.
+Process 0: Closest pair to merge: 415 and 531 with distance 0.019060.
+Process 0: Merged clusters 415 and 531 into one. Total active clusters now: 745.
+Process 0: Closest pair to merge: 77 and 583 with distance 0.019123.
+Process 0: Merged clusters 77 and 583 into one. Total active clusters now: 744.
+Process 0: Closest pair to merge: 204 and 209 with distance 0.019144.
+Process 0: Merged clusters 204 and 209 into one. Total active clusters now: 743.
+Process 0: Closest pair to merge: 359 and 562 with distance 0.019151.
+Process 0: Merged clusters 359 and 562 into one. Total active clusters now: 742.
+Process 0: Closest pair to merge: 402 and 587 with distance 0.019418.
+Process 0: Merged clusters 402 and 587 into one. Total active clusters now: 741.
+Process 0: Closest pair to merge: 238 and 573 with distance 0.019453.
+Process 0: Merged clusters 238 and 573 into one. Total active clusters now: 740.
+Process 0: Closest pair to merge: 55 and 510 with distance 0.019494.
+Process 0: Merged clusters 55 and 510 into one. Total active clusters now: 739.
+Process 0: Closest pair to merge: 172 and 478 with distance 0.019534.
+Process 0: Merged clusters 172 and 478 into one. Total active clusters now: 738.
+Process 0: Closest pair to merge: 219 and 620 with distance 0.019564.
+Process 0: Merged clusters 219 and 620 into one. Total active clusters now: 737.
+Process 0: Closest pair to merge: 2 and 163 with distance 0.019629.
+Process 0: Merged clusters 2 and 163 into one. Total active clusters now: 736.
+Process 0: Closest pair to merge: 132 and 207 with distance 0.019663.
+Process 0: Merged clusters 132 and 207 into one. Total active clusters now: 735.
+Process 0: Closest pair to merge: 469 and 555 with distance 0.019724.
+Process 0: Merged clusters 469 and 555 into one. Total active clusters now: 734.
+Process 0: Closest pair to merge: 146 and 501 with distance 0.019765.
+Process 0: Merged clusters 146 and 501 into one. Total active clusters now: 733.
+Process 0: Closest pair to merge: 164 and 450 with distance 0.019766.
+Process 0: Merged clusters 164 and 450 into one. Total active clusters now: 732.
+Process 0: Closest pair to merge: 143 and 247 with distance 0.019823.
+Process 0: Merged clusters 143 and 247 into one. Total active clusters now: 731.
+Process 0: Closest pair to merge: 255 and 694 with distance 0.019838.
+Process 0: Merged clusters 255 and 694 into one. Total active clusters now: 730.
+Process 0: Closest pair to merge: 380 and 474 with distance 0.019869.
+Process 0: Merged clusters 380 and 474 into one. Total active clusters now: 729.
+Process 0: Closest pair to merge: 628 and 633 with distance 0.019913.
+Process 0: Merged clusters 628 and 633 into one. Total active clusters now: 728.
+Process 0: Closest pair to merge: 10 and 190 with distance 0.020099.
+Process 0: Merged clusters 10 and 190 into one. Total active clusters now: 727.
+Process 0: Closest pair to merge: 23 and 348 with distance 0.020124.
+Process 0: Merged clusters 23 and 348 into one. Total active clusters now: 726.
+Process 0: Closest pair to merge: 276 and 329 with distance 0.020201.
+Process 0: Merged clusters 276 and 329 into one. Total active clusters now: 725.
+Process 0: Closest pair to merge: 254 and 271 with distance 0.020390.
+Process 0: Merged clusters 254 and 271 into one. Total active clusters now: 724.
+Process 0: Closest pair to merge: 389 and 499 with distance 0.020424.
+Process 0: Merged clusters 389 and 499 into one. Total active clusters now: 723.
+Process 0: Closest pair to merge: 34 and 649 with distance 0.020591.
+Process 0: Merged clusters 34 and 649 into one. Total active clusters now: 722.
+Process 0: Closest pair to merge: 46 and 387 with distance 0.020710.
+Process 0: Merged clusters 46 and 387 into one. Total active clusters now: 721.
+Process 0: Closest pair to merge: 168 and 567 with distance 0.020846.
+Process 0: Merged clusters 168 and 567 into one. Total active clusters now: 720.
+Process 0: Closest pair to merge: 628 and 703 with distance 0.020855.
+Process 0: Merged clusters 628 and 703 into one. Total active clusters now: 719.
+Process 0: Closest pair to merge: 31 and 432 with distance 0.021011.
+Process 0: Merged clusters 31 and 432 into one. Total active clusters now: 718.
+Process 0: Closest pair to merge: 522 and 554 with distance 0.021017.
+Process 0: Merged clusters 522 and 554 into one. Total active clusters now: 717.
+Process 0: Closest pair to merge: 369 and 698 with distance 0.021051.
+Process 0: Merged clusters 369 and 698 into one. Total active clusters now: 716.
+Process 0: Closest pair to merge: 353 and 667 with distance 0.021095.
+Process 0: Merged clusters 353 and 667 into one. Total active clusters now: 715.
+Process 0: Closest pair to merge: 8 and 423 with distance 0.021109.
+Process 0: Merged clusters 8 and 423 into one. Total active clusters now: 714.
+Process 0: Closest pair to merge: 112 and 399 with distance 0.021116.
+Process 0: Merged clusters 112 and 399 into one. Total active clusters now: 713.
+Process 0: Closest pair to merge: 182 and 442 with distance 0.021152.
+Process 0: Merged clusters 182 and 442 into one. Total active clusters now: 712.
+Process 0: Closest pair to merge: 50 and 279 with distance 0.021153.
+Process 0: Merged clusters 50 and 279 into one. Total active clusters now: 711.
+Process 0: Closest pair to merge: 246 and 512 with distance 0.021224.
+Process 0: Merged clusters 246 and 512 into one. Total active clusters now: 710.
+Process 0: Closest pair to merge: 303 and 435 with distance 0.021289.
+Process 0: Merged clusters 303 and 435 into one. Total active clusters now: 709.
+Process 0: Closest pair to merge: 424 and 686 with distance 0.021290.
+Process 0: Merged clusters 424 and 686 into one. Total active clusters now: 708.
+Process 0: Closest pair to merge: 91 and 695 with distance 0.021310.
+Process 0: Merged clusters 91 and 695 into one. Total active clusters now: 707.
+Process 0: Closest pair to merge: 136 and 447 with distance 0.021418.
+Process 0: Merged clusters 136 and 447 into one. Total active clusters now: 706.
+Process 0: Closest pair to merge: 540 and 660 with distance 0.021437.
+Process 0: Merged clusters 540 and 660 into one. Total active clusters now: 705.
+Process 0: Closest pair to merge: 504 and 596 with distance 0.021466.
+Process 0: Merged clusters 504 and 596 into one. Total active clusters now: 704.
+Process 0: Closest pair to merge: 252 and 487 with distance 0.021707.
+Process 0: Merged clusters 252 and 487 into one. Total active clusters now: 703.
+Process 0: Closest pair to merge: 22 and 301 with distance 0.021965.
+Process 0: Merged clusters 22 and 301 into one. Total active clusters now: 702.
+Process 0: Closest pair to merge: 22 and 135 with distance 0.021365.
+Process 0: Merged clusters 22 and 135 into one. Total active clusters now: 701.
+Process 0: Closest pair to merge: 86 and 395 with distance 0.021974.
+Process 0: Merged clusters 86 and 395 into one. Total active clusters now: 700.
+Process 0: Closest pair to merge: 239 and 273 with distance 0.022146.
+Process 0: Merged clusters 239 and 273 into one. Total active clusters now: 699.
+Process 0: Closest pair to merge: 342 and 522 with distance 0.022162.
+Process 0: Merged clusters 342 and 522 into one. Total active clusters now: 698.
+Process 0: Closest pair to merge: 342 and 355 with distance 0.021424.
+Process 0: Merged clusters 342 and 355 into one. Total active clusters now: 697.
+Process 0: Closest pair to merge: 157 and 559 with distance 0.022171.
+Process 0: Merged clusters 157 and 559 into one. Total active clusters now: 696.
+Process 0: Closest pair to merge: 66 and 560 with distance 0.022385.
+Process 0: Merged clusters 66 and 560 into one. Total active clusters now: 695.
+Process 0: Closest pair to merge: 484 and 674 with distance 0.022413.
+Process 0: Merged clusters 484 and 674 into one. Total active clusters now: 694.
+Process 0: Closest pair to merge: 436 and 488 with distance 0.022457.
+Process 0: Merged clusters 436 and 488 into one. Total active clusters now: 693.
+Process 0: Closest pair to merge: 68 and 598 with distance 0.022495.
+Process 0: Merged clusters 68 and 598 into one. Total active clusters now: 692.
+Process 0: Closest pair to merge: 155 and 519 with distance 0.022546.
+Process 0: Merged clusters 155 and 519 into one. Total active clusters now: 691.
+Process 0: Closest pair to merge: 43 and 452 with distance 0.022626.
+Process 0: Merged clusters 43 and 452 into one. Total active clusters now: 690.
+Process 0: Closest pair to merge: 324 and 491 with distance 0.022630.
+Process 0: Merged clusters 324 and 491 into one. Total active clusters now: 689.
+Process 0: Closest pair to merge: 117 and 558 with distance 0.022638.
+Process 0: Merged clusters 117 and 558 into one. Total active clusters now: 688.
+Process 0: Closest pair to merge: 250 and 562 with distance 0.022757.
+Process 0: Merged clusters 250 and 562 into one. Total active clusters now: 687.
+Process 0: Closest pair to merge: 528 and 620 with distance 0.022812.
+Process 0: Merged clusters 528 and 620 into one. Total active clusters now: 686.
+Process 0: Closest pair to merge: 14 and 302 with distance 0.022831.
+Process 0: Merged clusters 14 and 302 into one. Total active clusters now: 685.
+Process 0: Closest pair to merge: 550 and 619 with distance 0.022967.
+Process 0: Merged clusters 550 and 619 into one. Total active clusters now: 684.
+Process 0: Closest pair to merge: 68 and 350 with distance 0.023050.
+Process 0: Merged clusters 68 and 350 into one. Total active clusters now: 683.
+Process 0: Closest pair to merge: 93 and 354 with distance 0.023061.
+Process 0: Merged clusters 93 and 354 into one. Total active clusters now: 682.
+Process 0: Closest pair to merge: 23 and 651 with distance 0.023109.
+Process 0: Merged clusters 23 and 651 into one. Total active clusters now: 681.
+Process 0: Closest pair to merge: 219 and 551 with distance 0.023289.
+Process 0: Merged clusters 219 and 551 into one. Total active clusters now: 680.
+Process 0: Closest pair to merge: 329 and 463 with distance 0.023647.
+Process 0: Merged clusters 329 and 463 into one. Total active clusters now: 679.
+Process 0: Closest pair to merge: 312 and 619 with distance 0.023650.
+Process 0: Merged clusters 312 and 619 into one. Total active clusters now: 678.
+Process 0: Closest pair to merge: 328 and 631 with distance 0.023867.
+Process 0: Merged clusters 328 and 631 into one. Total active clusters now: 677.
+Process 0: Closest pair to merge: 44 and 344 with distance 0.023912.
+Process 0: Merged clusters 44 and 344 into one. Total active clusters now: 676.
+Process 0: Closest pair to merge: 252 and 464 with distance 0.023924.
+Process 0: Merged clusters 252 and 464 into one. Total active clusters now: 675.
+Process 0: Closest pair to merge: 143 and 647 with distance 0.023951.
+Process 0: Merged clusters 143 and 647 into one. Total active clusters now: 674.
+Process 0: Closest pair to merge: 430 and 505 with distance 0.024000.
+Process 0: Merged clusters 430 and 505 into one. Total active clusters now: 673.
+Process 0: Closest pair to merge: 427 and 451 with distance 0.024004.
+Process 0: Merged clusters 427 and 451 into one. Total active clusters now: 672.
+Process 0: Closest pair to merge: 49 and 239 with distance 0.024071.
+Process 0: Merged clusters 49 and 239 into one. Total active clusters now: 671.
+Process 0: Closest pair to merge: 14 and 175 with distance 0.024093.
+Process 0: Merged clusters 14 and 175 into one. Total active clusters now: 670.
+Process 0: Closest pair to merge: 61 and 296 with distance 0.024102.
+Process 0: Merged clusters 61 and 296 into one. Total active clusters now: 669.
+Process 0: Closest pair to merge: 85 and 441 with distance 0.024172.
+Process 0: Merged clusters 85 and 441 into one. Total active clusters now: 668.
+Process 0: Closest pair to merge: 537 and 629 with distance 0.024226.
+Process 0: Merged clusters 537 and 629 into one. Total active clusters now: 667.
+Process 0: Closest pair to merge: 291 and 571 with distance 0.024283.
+Process 0: Merged clusters 291 and 571 into one. Total active clusters now: 666.
+Process 0: Closest pair to merge: 117 and 548 with distance 0.024285.
+Process 0: Merged clusters 117 and 548 into one. Total active clusters now: 665.
+Process 0: Closest pair to merge: 44 and 564 with distance 0.024288.
+Process 0: Merged clusters 44 and 564 into one. Total active clusters now: 664.
+Process 0: Closest pair to merge: 83 and 628 with distance 0.024291.
+Process 0: Merged clusters 83 and 628 into one. Total active clusters now: 663.
+Process 0: Closest pair to merge: 340 and 438 with distance 0.024422.
+Process 0: Merged clusters 340 and 438 into one. Total active clusters now: 662.
+Process 0: Closest pair to merge: 305 and 364 with distance 0.024509.
+Process 0: Merged clusters 305 and 364 into one. Total active clusters now: 661.
+Process 0: Closest pair to merge: 37 and 292 with distance 0.024683.
+Process 0: Merged clusters 37 and 292 into one. Total active clusters now: 660.
+Process 0: Closest pair to merge: 214 and 551 with distance 0.024687.
+Process 0: Merged clusters 214 and 551 into one. Total active clusters now: 659.
+Process 0: Closest pair to merge: 48 and 118 with distance 0.024688.
+Process 0: Merged clusters 48 and 118 into one. Total active clusters now: 658.
+Process 0: Closest pair to merge: 332 and 489 with distance 0.024787.
+Process 0: Merged clusters 332 and 489 into one. Total active clusters now: 657.
+Process 0: Closest pair to merge: 340 and 513 with distance 0.024791.
+Process 0: Merged clusters 340 and 513 into one. Total active clusters now: 656.
+Process 0: Closest pair to merge: 39 and 167 with distance 0.024945.
+Process 0: Merged clusters 39 and 167 into one. Total active clusters now: 655.
+Process 0: Closest pair to merge: 20 and 344 with distance 0.024949.
+Process 0: Merged clusters 20 and 344 into one. Total active clusters now: 654.
+Process 0: Closest pair to merge: 254 and 480 with distance 0.025010.
+Process 0: Merged clusters 254 and 480 into one. Total active clusters now: 653.
+Process 0: Closest pair to merge: 75 and 423 with distance 0.025187.
+Process 0: Merged clusters 75 and 423 into one. Total active clusters now: 652.
+Process 0: Closest pair to merge: 260 and 372 with distance 0.025296.
+Process 0: Merged clusters 260 and 372 into one. Total active clusters now: 651.
+Process 0: Closest pair to merge: 235 and 626 with distance 0.025305.
+Process 0: Merged clusters 235 and 626 into one. Total active clusters now: 650.
+Process 0: Closest pair to merge: 127 and 501 with distance 0.025450.
+Process 0: Merged clusters 127 and 501 into one. Total active clusters now: 649.
+Process 0: Closest pair to merge: 419 and 513 with distance 0.025468.
+Process 0: Merged clusters 419 and 513 into one. Total active clusters now: 648.
+Process 0: Closest pair to merge: 375 and 554 with distance 0.025485.
+Process 0: Merged clusters 375 and 554 into one. Total active clusters now: 647.
+Process 0: Closest pair to merge: 265 and 375 with distance 0.023651.
+Process 0: Merged clusters 265 and 375 into one. Total active clusters now: 646.
+Process 0: Closest pair to merge: 29 and 114 with distance 0.025649.
+Process 0: Merged clusters 29 and 114 into one. Total active clusters now: 645.
+Process 0: Closest pair to merge: 193 and 248 with distance 0.025699.
+Process 0: Merged clusters 193 and 248 into one. Total active clusters now: 644.
+Process 0: Closest pair to merge: 558 and 625 with distance 0.025717.
+Process 0: Merged clusters 558 and 625 into one. Total active clusters now: 643.
+Process 0: Closest pair to merge: 2 and 81 with distance 0.025824.
+Process 0: Merged clusters 2 and 81 into one. Total active clusters now: 642.
+Process 0: Closest pair to merge: 279 and 430 with distance 0.025853.
+Process 0: Merged clusters 279 and 430 into one. Total active clusters now: 641.
+Process 0: Closest pair to merge: 387 and 539 with distance 0.025911.
+Process 0: Merged clusters 387 and 539 into one. Total active clusters now: 640.
+Process 0: Closest pair to merge: 3 and 503 with distance 0.025966.
+Process 0: Merged clusters 3 and 503 into one. Total active clusters now: 639.
+Process 0: Closest pair to merge: 194 and 303 with distance 0.026019.
+Process 0: Merged clusters 194 and 303 into one. Total active clusters now: 638.
+Process 0: Closest pair to merge: 205 and 549 with distance 0.026093.
+Process 0: Merged clusters 205 and 549 into one. Total active clusters now: 637.
+Process 0: Closest pair to merge: 19 and 266 with distance 0.026118.
+Process 0: Merged clusters 19 and 266 into one. Total active clusters now: 636.
+Process 0: Closest pair to merge: 1 and 474 with distance 0.026150.
+Process 0: Merged clusters 1 and 474 into one. Total active clusters now: 635.
+Process 0: Closest pair to merge: 51 and 469 with distance 0.026178.
+Process 0: Merged clusters 51 and 469 into one. Total active clusters now: 634.
+Process 0: Closest pair to merge: 8 and 412 with distance 0.026202.
+Process 0: Merged clusters 8 and 412 into one. Total active clusters now: 633.
+Process 0: Closest pair to merge: 78 and 170 with distance 0.026242.
+Process 0: Merged clusters 78 and 170 into one. Total active clusters now: 632.
+Process 0: Closest pair to merge: 544 and 582 with distance 0.026303.
+Process 0: Merged clusters 544 and 582 into one. Total active clusters now: 631.
+Process 0: Closest pair to merge: 38 and 537 with distance 0.026316.
+Process 0: Merged clusters 38 and 537 into one. Total active clusters now: 630.
+Process 0: Closest pair to merge: 436 and 573 with distance 0.026337.
+Process 0: Merged clusters 436 and 573 into one. Total active clusters now: 629.
+Process 0: Closest pair to merge: 118 and 397 with distance 0.026399.
+Process 0: Merged clusters 118 and 397 into one. Total active clusters now: 628.
+Process 0: Closest pair to merge: 378 and 510 with distance 0.026407.
+Process 0: Merged clusters 378 and 510 into one. Total active clusters now: 627.
+Process 0: Closest pair to merge: 163 and 586 with distance 0.026407.
+Process 0: Merged clusters 163 and 586 into one. Total active clusters now: 626.
+Process 0: Closest pair to merge: 131 and 382 with distance 0.026634.
+Process 0: Merged clusters 131 and 382 into one. Total active clusters now: 625.
+Process 0: Closest pair to merge: 26 and 113 with distance 0.026728.
+Process 0: Merged clusters 26 and 113 into one. Total active clusters now: 624.
+Process 0: Closest pair to merge: 477 and 594 with distance 0.026859.
+Process 0: Merged clusters 477 and 594 into one. Total active clusters now: 623.
+Process 0: Closest pair to merge: 351 and 540 with distance 0.026895.
+Process 0: Merged clusters 351 and 540 into one. Total active clusters now: 622.
+Process 0: Closest pair to merge: 266 and 367 with distance 0.026954.
+Process 0: Merged clusters 266 and 367 into one. Total active clusters now: 621.
+Process 0: Closest pair to merge: 252 and 469 with distance 0.027002.
+Process 0: Merged clusters 252 and 469 into one. Total active clusters now: 620.
+Process 0: Closest pair to merge: 196 and 429 with distance 0.027021.
+Process 0: Merged clusters 196 and 429 into one. Total active clusters now: 619.
+Process 0: Closest pair to merge: 136 and 414 with distance 0.027034.
+Process 0: Merged clusters 136 and 414 into one. Total active clusters now: 618.
+Process 0: Closest pair to merge: 436 and 465 with distance 0.027092.
+Process 0: Merged clusters 436 and 465 into one. Total active clusters now: 617.
+Process 0: Closest pair to merge: 250 and 420 with distance 0.027156.
+Process 0: Merged clusters 250 and 420 into one. Total active clusters now: 616.
+Process 0: Closest pair to merge: 12 and 343 with distance 0.027201.
+Process 0: Merged clusters 12 and 343 into one. Total active clusters now: 615.
+Process 0: Closest pair to merge: 19 and 318 with distance 0.027248.
+Process 0: Merged clusters 19 and 318 into one. Total active clusters now: 614.
+Process 0: Closest pair to merge: 514 and 541 with distance 0.027417.
+Process 0: Merged clusters 514 and 541 into one. Total active clusters now: 613.
+Process 0: Closest pair to merge: 470 and 588 with distance 0.027548.
+Process 0: Merged clusters 470 and 588 into one. Total active clusters now: 612.
+Process 0: Closest pair to merge: 394 and 547 with distance 0.027596.
+Process 0: Merged clusters 394 and 547 into one. Total active clusters now: 611.
+Process 0: Closest pair to merge: 73 and 232 with distance 0.027653.
+Process 0: Merged clusters 73 and 232 into one. Total active clusters now: 610.
+Process 0: Closest pair to merge: 342 and 394 with distance 0.027948.
+Process 0: Merged clusters 342 and 394 into one. Total active clusters now: 609.
+Process 0: Closest pair to merge: 80 and 442 with distance 0.027970.
+Process 0: Merged clusters 80 and 442 into one. Total active clusters now: 608.
+Process 0: Closest pair to merge: 290 and 332 with distance 0.028109.
+Process 0: Merged clusters 290 and 332 into one. Total active clusters now: 607.
+Process 0: Closest pair to merge: 283 and 378 with distance 0.028110.
+Process 0: Merged clusters 283 and 378 into one. Total active clusters now: 606.
+Process 0: Closest pair to merge: 245 and 573 with distance 0.028130.
+Process 0: Merged clusters 245 and 573 into one. Total active clusters now: 605.
+Process 0: Closest pair to merge: 26 and 307 with distance 0.028140.
+Process 0: Merged clusters 26 and 307 into one. Total active clusters now: 604.
+Process 0: Closest pair to merge: 119 and 343 with distance 0.028252.
+Process 0: Merged clusters 119 and 343 into one. Total active clusters now: 603.
+Process 0: Closest pair to merge: 43 and 145 with distance 0.028278.
+Process 0: Merged clusters 43 and 145 into one. Total active clusters now: 602.
+Process 0: Closest pair to merge: 263 and 356 with distance 0.028281.
+Process 0: Merged clusters 263 and 356 into one. Total active clusters now: 601.
+Process 0: Closest pair to merge: 231 and 232 with distance 0.028352.
+Process 0: Merged clusters 231 and 232 into one. Total active clusters now: 600.
+Process 0: Closest pair to merge: 154 and 226 with distance 0.028384.
+Process 0: Merged clusters 154 and 226 into one. Total active clusters now: 599.
+Process 0: Closest pair to merge: 61 and 507 with distance 0.028388.
+Process 0: Merged clusters 61 and 507 into one. Total active clusters now: 598.
+Process 0: Closest pair to merge: 170 and 468 with distance 0.028388.
+Process 0: Merged clusters 170 and 468 into one. Total active clusters now: 597.
+Process 0: Closest pair to merge: 126 and 365 with distance 0.028393.
+Process 0: Merged clusters 126 and 365 into one. Total active clusters now: 596.
+Process 0: Closest pair to merge: 77 and 584 with distance 0.028401.
+Process 0: Merged clusters 77 and 584 into one. Total active clusters now: 595.
+Process 0: Closest pair to merge: 297 and 402 with distance 0.028425.
+Process 0: Merged clusters 297 and 402 into one. Total active clusters now: 594.
+Process 0: Closest pair to merge: 16 and 236 with distance 0.028428.
+Process 0: Merged clusters 16 and 236 into one. Total active clusters now: 593.
+Process 0: Closest pair to merge: 219 and 549 with distance 0.028515.
+Process 0: Merged clusters 219 and 549 into one. Total active clusters now: 592.
+Process 0: Closest pair to merge: 352 and 408 with distance 0.028551.
+Process 0: Merged clusters 352 and 408 into one. Total active clusters now: 591.
+Process 0: Closest pair to merge: 132 and 331 with distance 0.028652.
+Process 0: Merged clusters 132 and 331 into one. Total active clusters now: 590.
+Process 0: Closest pair to merge: 427 and 499 with distance 0.028652.
+Process 0: Merged clusters 427 and 499 into one. Total active clusters now: 589.
+Process 0: Closest pair to merge: 430 and 472 with distance 0.028797.
+Process 0: Merged clusters 430 and 472 into one. Total active clusters now: 588.
+Process 0: Closest pair to merge: 36 and 540 with distance 0.028826.
+Process 0: Merged clusters 36 and 540 into one. Total active clusters now: 587.
+Process 0: Closest pair to merge: 358 and 543 with distance 0.028851.
+Process 0: Merged clusters 358 and 543 into one. Total active clusters now: 586.
+Process 0: Closest pair to merge: 87 and 567 with distance 0.028902.
+Process 0: Merged clusters 87 and 567 into one. Total active clusters now: 585.
+Process 0: Closest pair to merge: 104 and 464 with distance 0.028903.
+Process 0: Merged clusters 104 and 464 into one. Total active clusters now: 584.
+Process 0: Closest pair to merge: 68 and 556 with distance 0.028945.
+Process 0: Merged clusters 68 and 556 into one. Total active clusters now: 583.
+Process 0: Closest pair to merge: 108 and 182 with distance 0.028948.
+Process 0: Merged clusters 108 and 182 into one. Total active clusters now: 582.
+Process 0: Closest pair to merge: 295 and 566 with distance 0.029019.
+Process 0: Merged clusters 295 and 566 into one. Total active clusters now: 581.
+Process 0: Closest pair to merge: 46 and 342 with distance 0.029052.
+Process 0: Merged clusters 46 and 342 into one. Total active clusters now: 580.
+Process 0: Closest pair to merge: 109 and 335 with distance 0.029219.
+Process 0: Merged clusters 109 and 335 into one. Total active clusters now: 579.
+Process 0: Closest pair to merge: 106 and 318 with distance 0.029266.
+Process 0: Merged clusters 106 and 318 into one. Total active clusters now: 578.
+Process 0: Closest pair to merge: 72 and 225 with distance 0.029269.
+Process 0: Merged clusters 72 and 225 into one. Total active clusters now: 577.
+Process 0: Closest pair to merge: 53 and 96 with distance 0.029330.
+Process 0: Merged clusters 53 and 96 into one. Total active clusters now: 576.
+Process 0: Closest pair to merge: 297 and 494 with distance 0.029350.
+Process 0: Merged clusters 297 and 494 into one. Total active clusters now: 575.
+Process 0: Closest pair to merge: 17 and 106 with distance 0.029512.
+Process 0: Merged clusters 17 and 106 into one. Total active clusters now: 574.
+Process 0: Closest pair to merge: 12 and 97 with distance 0.029536.
+Process 0: Merged clusters 12 and 97 into one. Total active clusters now: 573.
+Process 0: Closest pair to merge: 14 and 55 with distance 0.029581.
+Process 0: Merged clusters 14 and 55 into one. Total active clusters now: 572.
+Process 0: Closest pair to merge: 106 and 336 with distance 0.029626.
+Process 0: Merged clusters 106 and 336 into one. Total active clusters now: 571.
+Process 0: Closest pair to merge: 280 and 474 with distance 0.029626.
+Process 0: Merged clusters 280 and 474 into one. Total active clusters now: 570.
+Process 0: Closest pair to merge: 163 and 255 with distance 0.029711.
+Process 0: Merged clusters 163 and 255 into one. Total active clusters now: 569.
+Process 0: Closest pair to merge: 154 and 536 with distance 0.029759.
+Process 0: Merged clusters 154 and 536 into one. Total active clusters now: 568.
+Process 0: Closest pair to merge: 146 and 187 with distance 0.029792.
+Process 0: Merged clusters 146 and 187 into one. Total active clusters now: 567.
+Process 0: Closest pair to merge: 353 and 407 with distance 0.029960.
+Process 0: Merged clusters 353 and 407 into one. Total active clusters now: 566.
+Process 0: Closest pair to merge: 231 and 408 with distance 0.029963.
+Process 0: Merged clusters 231 and 408 into one. Total active clusters now: 565.
+Process 0: Closest pair to merge: 31 and 305 with distance 0.029977.
+Process 0: Merged clusters 31 and 305 into one. Total active clusters now: 564.
+Process 0: Closest pair to merge: 370 and 427 with distance 0.030026.
+Process 0: Merged clusters 370 and 427 into one. Total active clusters now: 563.
+Process 0: Closest pair to merge: 11 and 93 with distance 0.030047.
+Process 0: Merged clusters 11 and 93 into one. Total active clusters now: 562.
+Process 0: Closest pair to merge: 11 and 487 with distance 0.027991.
+Process 0: Merged clusters 11 and 487 into one. Total active clusters now: 561.
+Process 0: Closest pair to merge: 145 and 560 with distance 0.030141.
+Process 0: Merged clusters 145 and 560 into one. Total active clusters now: 560.
+Process 0: Closest pair to merge: 288 and 432 with distance 0.030163.
+Process 0: Merged clusters 288 and 432 into one. Total active clusters now: 559.
+Process 0: Closest pair to merge: 120 and 239 with distance 0.030205.
+Process 0: Merged clusters 120 and 239 into one. Total active clusters now: 558.
+Process 0: Closest pair to merge: 126 and 477 with distance 0.030396.
+Process 0: Merged clusters 126 and 477 into one. Total active clusters now: 557.
+Process 0: Closest pair to merge: 34 and 284 with distance 0.030405.
+Process 0: Merged clusters 34 and 284 into one. Total active clusters now: 556.
+Process 0: Closest pair to merge: 45 and 95 with distance 0.030474.
+Process 0: Merged clusters 45 and 95 into one. Total active clusters now: 555.
+Process 0: Closest pair to merge: 66 and 315 with distance 0.030549.
+Process 0: Merged clusters 66 and 315 into one. Total active clusters now: 554.
+Process 0: Closest pair to merge: 308 and 353 with distance 0.030554.
+Process 0: Merged clusters 308 and 353 into one. Total active clusters now: 553.
+Process 0: Closest pair to merge: 130 and 377 with distance 0.030597.
+Process 0: Merged clusters 130 and 377 into one. Total active clusters now: 552.
+Process 0: Closest pair to merge: 254 and 449 with distance 0.030607.
+Process 0: Merged clusters 254 and 449 into one. Total active clusters now: 551.
+Process 0: Closest pair to merge: 447 and 514 with distance 0.030702.
+Process 0: Merged clusters 447 and 514 into one. Total active clusters now: 550.
+Process 0: Closest pair to merge: 319 and 356 with distance 0.030797.
+Process 0: Merged clusters 319 and 356 into one. Total active clusters now: 549.
+Process 0: Closest pair to merge: 286 and 533 with distance 0.030819.
+Process 0: Merged clusters 286 and 533 into one. Total active clusters now: 548.
+Process 0: Closest pair to merge: 365 and 374 with distance 0.030885.
+Process 0: Merged clusters 365 and 374 into one. Total active clusters now: 547.
+Process 0: Closest pair to merge: 136 and 304 with distance 0.030918.
+Process 0: Merged clusters 136 and 304 into one. Total active clusters now: 546.
+Process 0: Closest pair to merge: 64 and 254 with distance 0.031090.
+Process 0: Merged clusters 64 and 254 into one. Total active clusters now: 545.
+Process 0: Closest pair to merge: 238 and 282 with distance 0.031220.
+Process 0: Merged clusters 238 and 282 into one. Total active clusters now: 544.
+Process 0: Closest pair to merge: 221 and 255 with distance 0.031258.
+Process 0: Merged clusters 221 and 255 into one. Total active clusters now: 543.
+Process 0: Closest pair to merge: 284 and 470 with distance 0.031271.
+Process 0: Merged clusters 284 and 470 into one. Total active clusters now: 542.
+Process 0: Closest pair to merge: 50 and 114 with distance 0.031335.
+Process 0: Merged clusters 50 and 114 into one. Total active clusters now: 541.
+Process 0: Closest pair to merge: 326 and 363 with distance 0.031413.
+Process 0: Merged clusters 326 and 363 into one. Total active clusters now: 540.
+Process 0: Closest pair to merge: 49 and 374 with distance 0.031653.
+Process 0: Merged clusters 49 and 374 into one. Total active clusters now: 539.
+Process 0: Closest pair to merge: 113 and 309 with distance 0.031666.
+Process 0: Merged clusters 113 and 309 into one. Total active clusters now: 538.
+Process 0: Closest pair to merge: 10 and 20 with distance 0.031765.
+Process 0: Merged clusters 10 and 20 into one. Total active clusters now: 537.
+Process 0: Closest pair to merge: 72 and 149 with distance 0.031860.
+Process 0: Merged clusters 72 and 149 into one. Total active clusters now: 536.
+Process 0: Closest pair to merge: 96 and 442 with distance 0.031972.
+Process 0: Merged clusters 96 and 442 into one. Total active clusters now: 535.
+Process 0: Closest pair to merge: 143 and 286 with distance 0.032060.
+Process 0: Merged clusters 143 and 286 into one. Total active clusters now: 534.
+Process 0: Closest pair to merge: 387 and 451 with distance 0.032093.
+Process 0: Merged clusters 387 and 451 into one. Total active clusters now: 533.
+Process 0: Closest pair to merge: 227 and 528 with distance 0.032293.
+Process 0: Merged clusters 227 and 528 into one. Total active clusters now: 532.
+Process 0: Closest pair to merge: 109 and 295 with distance 0.032542.
+Process 0: Merged clusters 109 and 295 into one. Total active clusters now: 531.
+Process 0: Closest pair to merge: 225 and 254 with distance 0.032619.
+Process 0: Merged clusters 225 and 254 into one. Total active clusters now: 530.
+Process 0: Closest pair to merge: 140 and 271 with distance 0.032623.
+Process 0: Merged clusters 140 and 271 into one. Total active clusters now: 529.
+Process 0: Closest pair to merge: 53 and 170 with distance 0.032705.
+Process 0: Merged clusters 53 and 170 into one. Total active clusters now: 528.
+Process 0: Closest pair to merge: 298 and 464 with distance 0.032705.
+Process 0: Merged clusters 298 and 464 into one. Total active clusters now: 527.
+Process 0: Closest pair to merge: 111 and 210 with distance 0.032826.
+Process 0: Merged clusters 111 and 210 into one. Total active clusters now: 526.
+Process 0: Closest pair to merge: 202 and 445 with distance 0.032856.
+Process 0: Merged clusters 202 and 445 into one. Total active clusters now: 525.
+Process 0: Closest pair to merge: 385 and 516 with distance 0.032889.
+Process 0: Merged clusters 385 and 516 into one. Total active clusters now: 524.
+Process 0: Closest pair to merge: 177 and 445 with distance 0.032899.
+Process 0: Merged clusters 177 and 445 into one. Total active clusters now: 523.
+Process 0: Closest pair to merge: 340 and 402 with distance 0.032900.
+Process 0: Merged clusters 340 and 402 into one. Total active clusters now: 522.
+Process 0: Closest pair to merge: 262 and 515 with distance 0.032952.
+Process 0: Merged clusters 262 and 515 into one. Total active clusters now: 521.
+Process 0: Closest pair to merge: 5 and 325 with distance 0.032981.
+Process 0: Merged clusters 5 and 325 into one. Total active clusters now: 520.
+Process 0: Closest pair to merge: 5 and 394 with distance 0.031808.
+Process 0: Merged clusters 5 and 394 into one. Total active clusters now: 519.
+Process 0: Closest pair to merge: 41 and 148 with distance 0.033043.
+Process 0: Merged clusters 41 and 148 into one. Total active clusters now: 518.
+Process 0: Closest pair to merge: 173 and 236 with distance 0.033089.
+Process 0: Merged clusters 173 and 236 into one. Total active clusters now: 517.
+Process 0: Closest pair to merge: 279 and 513 with distance 0.033090.
+Process 0: Merged clusters 279 and 513 into one. Total active clusters now: 516.
+Process 0: Closest pair to merge: 196 and 505 with distance 0.033142.
+Process 0: Merged clusters 196 and 505 into one. Total active clusters now: 515.
+Process 0: Closest pair to merge: 21 and 76 with distance 0.033156.
+Process 0: Merged clusters 21 and 76 into one. Total active clusters now: 514.
+Process 0: Closest pair to merge: 148 and 427 with distance 0.033190.
+Process 0: Merged clusters 148 and 427 into one. Total active clusters now: 513.
+Process 0: Closest pair to merge: 174 and 333 with distance 0.033229.
+Process 0: Merged clusters 174 and 333 into one. Total active clusters now: 512.
+Process 0: Closest pair to merge: 103 and 445 with distance 0.033266.
+Process 0: Merged clusters 103 and 445 into one. Total active clusters now: 511.
+Process 0: Closest pair to merge: 343 and 395 with distance 0.033271.
+Process 0: Merged clusters 343 and 395 into one. Total active clusters now: 510.
+Process 0: Closest pair to merge: 172 and 293 with distance 0.033271.
+Process 0: Merged clusters 172 and 293 into one. Total active clusters now: 509.
+Process 0: Closest pair to merge: 6 and 150 with distance 0.033299.
+Process 0: Merged clusters 6 and 150 into one. Total active clusters now: 508.
+Process 0: Closest pair to merge: 212 and 417 with distance 0.033324.
+Process 0: Merged clusters 212 and 417 into one. Total active clusters now: 507.
+Process 0: Closest pair to merge: 98 and 266 with distance 0.033390.
+Process 0: Merged clusters 98 and 266 into one. Total active clusters now: 506.
+Process 0: Closest pair to merge: 126 and 402 with distance 0.033392.
+Process 0: Merged clusters 126 and 402 into one. Total active clusters now: 505.
+Process 0: Closest pair to merge: 215 and 392 with distance 0.033570.
+Process 0: Merged clusters 215 and 392 into one. Total active clusters now: 504.
+Process 0: Closest pair to merge: 381 and 461 with distance 0.033596.
+Process 0: Merged clusters 381 and 461 into one. Total active clusters now: 503.
+Process 0: Closest pair to merge: 177 and 436 with distance 0.033631.
+Process 0: Merged clusters 177 and 436 into one. Total active clusters now: 502.
+Process 0: Closest pair to merge: 52 and 351 with distance 0.033741.
+Process 0: Merged clusters 52 and 351 into one. Total active clusters now: 501.
+Process 0: Closest pair to merge: 170 and 489 with distance 0.033799.
+Process 0: Merged clusters 170 and 489 into one. Total active clusters now: 500.
+Process 0: Closest pair to merge: 359 and 389 with distance 0.033870.
+Process 0: Merged clusters 359 and 389 into one. Total active clusters now: 499.
+Process 0: Closest pair to merge: 111 and 401 with distance 0.033915.
+Process 0: Merged clusters 111 and 401 into one. Total active clusters now: 498.
+Process 0: Closest pair to merge: 363 and 420 with distance 0.034008.
+Process 0: Merged clusters 363 and 420 into one. Total active clusters now: 497.
+Process 0: Closest pair to merge: 125 and 405 with distance 0.034027.
+Process 0: Merged clusters 125 and 405 into one. Total active clusters now: 496.
+Process 0: Closest pair to merge: 67 and 176 with distance 0.034035.
+Process 0: Merged clusters 67 and 176 into one. Total active clusters now: 495.
+Process 0: Closest pair to merge: 32 and 365 with distance 0.034082.
+Process 0: Merged clusters 32 and 365 into one. Total active clusters now: 494.
+Process 0: Closest pair to merge: 23 and 452 with distance 0.034106.
+Process 0: Merged clusters 23 and 452 into one. Total active clusters now: 493.
+Process 0: Closest pair to merge: 88 and 376 with distance 0.034131.
+Process 0: Merged clusters 88 and 376 into one. Total active clusters now: 492.
+Process 0: Closest pair to merge: 326 and 453 with distance 0.034171.
+Process 0: Merged clusters 326 and 453 into one. Total active clusters now: 491.
+Process 0: Closest pair to merge: 156 and 443 with distance 0.034370.
+Process 0: Merged clusters 156 and 443 into one. Total active clusters now: 490.
+Process 0: Closest pair to merge: 38 and 156 with distance 0.034380.
+Process 0: Merged clusters 38 and 156 into one. Total active clusters now: 489.
+Process 0: Closest pair to merge: 0 and 422 with distance 0.034506.
+Process 0: Merged clusters 0 and 422 into one. Total active clusters now: 488.
+Process 0: Closest pair to merge: 115 and 405 with distance 0.034560.
+Process 0: Merged clusters 115 and 405 into one. Total active clusters now: 487.
+Process 0: Closest pair to merge: 397 and 448 with distance 0.034585.
+Process 0: Merged clusters 397 and 448 into one. Total active clusters now: 486.
+Process 0: Closest pair to merge: 172 and 217 with distance 0.034632.
+Process 0: Merged clusters 172 and 217 into one. Total active clusters now: 485.
+Process 0: Closest pair to merge: 54 and 320 with distance 0.034641.
+Process 0: Merged clusters 54 and 320 into one. Total active clusters now: 484.
+Process 0: Closest pair to merge: 26 and 113 with distance 0.034742.
+Process 0: Merged clusters 26 and 113 into one. Total active clusters now: 483.
+Process 0: Closest pair to merge: 158 and 317 with distance 0.034801.
+Process 0: Merged clusters 158 and 317 into one. Total active clusters now: 482.
+Process 0: Closest pair to merge: 162 and 245 with distance 0.034878.
+Process 0: Merged clusters 162 and 245 into one. Total active clusters now: 481.
+Process 0: Closest pair to merge: 9 and 269 with distance 0.034969.
+Process 0: Merged clusters 9 and 269 into one. Total active clusters now: 480.
+Process 0: Closest pair to merge: 137 and 448 with distance 0.034974.
+Process 0: Merged clusters 137 and 448 into one. Total active clusters now: 479.
+Process 0: Closest pair to merge: 219 and 475 with distance 0.034997.
+Process 0: Merged clusters 219 and 475 into one. Total active clusters now: 478.
+Process 0: Closest pair to merge: 150 and 451 with distance 0.035031.
+Process 0: Merged clusters 150 and 451 into one. Total active clusters now: 477.
+Process 0: Closest pair to merge: 98 and 234 with distance 0.035158.
+Process 0: Merged clusters 98 and 234 into one. Total active clusters now: 476.
+Process 0: Closest pair to merge: 46 and 61 with distance 0.035223.
+Process 0: Merged clusters 46 and 61 into one. Total active clusters now: 475.
+Process 0: Closest pair to merge: 309 and 375 with distance 0.035474.
+Process 0: Merged clusters 309 and 375 into one. Total active clusters now: 474.
+Process 0: Closest pair to merge: 31 and 213 with distance 0.035484.
+Process 0: Merged clusters 31 and 213 into one. Total active clusters now: 473.
+Process 0: Closest pair to merge: 239 and 267 with distance 0.035730.
+Process 0: Merged clusters 239 and 267 into one. Total active clusters now: 472.
+Process 0: Closest pair to merge: 186 and 379 with distance 0.035784.
+Process 0: Merged clusters 186 and 379 into one. Total active clusters now: 471.
+Process 0: Closest pair to merge: 446 and 470 with distance 0.035856.
+Process 0: Merged clusters 446 and 470 into one. Total active clusters now: 470.
+Process 0: Closest pair to merge: 280 and 456 with distance 0.035967.
+Process 0: Merged clusters 280 and 456 into one. Total active clusters now: 469.
+Process 0: Closest pair to merge: 79 and 196 with distance 0.036029.
+Process 0: Merged clusters 79 and 196 into one. Total active clusters now: 468.
+Process 0: Closest pair to merge: 245 and 444 with distance 0.036211.
+Process 0: Merged clusters 245 and 444 into one. Total active clusters now: 467.
+Process 0: Closest pair to merge: 387 and 426 with distance 0.036249.
+Process 0: Merged clusters 387 and 426 into one. Total active clusters now: 466.
+Process 0: Closest pair to merge: 38 and 345 with distance 0.036258.
+Process 0: Merged clusters 38 and 345 into one. Total active clusters now: 465.
+Process 0: Closest pair to merge: 150 and 312 with distance 0.036275.
+Process 0: Merged clusters 150 and 312 into one. Total active clusters now: 464.
+Process 0: Closest pair to merge: 45 and 385 with distance 0.036279.
+Process 0: Merged clusters 45 and 385 into one. Total active clusters now: 463.
+Process 0: Closest pair to merge: 86 and 373 with distance 0.036304.
+Process 0: Merged clusters 86 and 373 into one. Total active clusters now: 462.
+Process 0: Closest pair to merge: 146 and 292 with distance 0.036307.
+Process 0: Merged clusters 146 and 292 into one. Total active clusters now: 461.
+Process 0: Closest pair to merge: 12 and 344 with distance 0.036395.
+Process 0: Merged clusters 12 and 344 into one. Total active clusters now: 460.
+Process 0: Closest pair to merge: 380 and 413 with distance 0.036432.
+Process 0: Merged clusters 380 and 413 into one. Total active clusters now: 459.
+Process 0: Closest pair to merge: 29 and 51 with distance 0.036495.
+Process 0: Merged clusters 29 and 51 into one. Total active clusters now: 458.
+Process 0: Closest pair to merge: 137 and 431 with distance 0.036533.
+Process 0: Merged clusters 137 and 431 into one. Total active clusters now: 457.
+Process 0: Closest pair to merge: 248 and 413 with distance 0.036718.
+Process 0: Merged clusters 248 and 413 into one. Total active clusters now: 456.
+Process 0: Closest pair to merge: 359 and 393 with distance 0.036751.
+Process 0: Merged clusters 359 and 393 into one. Total active clusters now: 455.
+Process 0: Closest pair to merge: 236 and 302 with distance 0.036779.
+Process 0: Merged clusters 236 and 302 into one. Total active clusters now: 454.
+Process 0: Closest pair to merge: 199 and 411 with distance 0.036812.
+Process 0: Merged clusters 199 and 411 into one. Total active clusters now: 453.
+Process 0: Closest pair to merge: 308 and 411 with distance 0.036876.
+Process 0: Merged clusters 308 and 411 into one. Total active clusters now: 452.
+Process 0: Closest pair to merge: 192 and 313 with distance 0.037026.
+Process 0: Merged clusters 192 and 313 into one. Total active clusters now: 451.
+Process 0: Closest pair to merge: 221 and 396 with distance 0.037149.
+Process 0: Merged clusters 221 and 396 into one. Total active clusters now: 450.
+Process 0: Closest pair to merge: 128 and 389 with distance 0.037167.
+Process 0: Merged clusters 128 and 389 into one. Total active clusters now: 449.
+Process 0: Closest pair to merge: 225 and 282 with distance 0.037270.
+Process 0: Merged clusters 225 and 282 into one. Total active clusters now: 448.
+Process 0: Closest pair to merge: 173 and 234 with distance 0.037302.
+Process 0: Merged clusters 173 and 234 into one. Total active clusters now: 447.
+Process 0: Closest pair to merge: 223 and 228 with distance 0.037306.
+Process 0: Merged clusters 223 and 228 into one. Total active clusters now: 446.
+Process 0: Closest pair to merge: 378 and 431 with distance 0.037351.
+Process 0: Merged clusters 378 and 431 into one. Total active clusters now: 445.
+Process 0: Closest pair to merge: 224 and 256 with distance 0.037367.
+Process 0: Merged clusters 224 and 256 into one. Total active clusters now: 444.
+Process 0: Closest pair to merge: 378 and 393 with distance 0.037511.
+Process 0: Merged clusters 378 and 393 into one. Total active clusters now: 443.
+Process 0: Closest pair to merge: 43 and 320 with distance 0.037600.
+Process 0: Merged clusters 43 and 320 into one. Total active clusters now: 442.
+Process 0: Closest pair to merge: 79 and 207 with distance 0.037761.
+Process 0: Merged clusters 79 and 207 into one. Total active clusters now: 441.
+Process 0: Closest pair to merge: 59 and 170 with distance 0.037776.
+Process 0: Merged clusters 59 and 170 into one. Total active clusters now: 440.
+Process 0: Closest pair to merge: 144 and 361 with distance 0.037815.
+Process 0: Merged clusters 144 and 361 into one. Total active clusters now: 439.
+Process 0: Closest pair to merge: 189 and 285 with distance 0.037817.
+Process 0: Merged clusters 189 and 285 into one. Total active clusters now: 438.
+Process 0: Closest pair to merge: 231 and 262 with distance 0.037908.
+Process 0: Merged clusters 231 and 262 into one. Total active clusters now: 437.
+Process 0: Closest pair to merge: 72 and 397 with distance 0.037964.
+Process 0: Merged clusters 72 and 397 into one. Total active clusters now: 436.
+Process 0: Closest pair to merge: 414 and 424 with distance 0.038049.
+Process 0: Merged clusters 414 and 424 into one. Total active clusters now: 435.
+Process 0: Closest pair to merge: 380 and 400 with distance 0.038181.
+Process 0: Merged clusters 380 and 400 into one. Total active clusters now: 434.
+Process 0: Closest pair to merge: 11 and 265 with distance 0.038292.
+Process 0: Merged clusters 11 and 265 into one. Total active clusters now: 433.
+Process 0: Closest pair to merge: 238 and 359 with distance 0.038518.
+Process 0: Merged clusters 238 and 359 into one. Total active clusters now: 432.
+Process 0: Closest pair to merge: 214 and 362 with distance 0.038600.
+Process 0: Merged clusters 214 and 362 into one. Total active clusters now: 431.
+Process 0: Closest pair to merge: 131 and 391 with distance 0.038601.
+Process 0: Merged clusters 131 and 391 into one. Total active clusters now: 430.
+Process 0: Closest pair to merge: 27 and 235 with distance 0.038672.
+Process 0: Merged clusters 27 and 235 into one. Total active clusters now: 429.
+Process 0: Closest pair to merge: 197 and 286 with distance 0.038679.
+Process 0: Merged clusters 197 and 286 into one. Total active clusters now: 428.
+Process 0: Closest pair to merge: 81 and 310 with distance 0.038726.
+Process 0: Merged clusters 81 and 310 into one. Total active clusters now: 427.
+Process 0: Closest pair to merge: 306 and 390 with distance 0.038799.
+Process 0: Merged clusters 306 and 390 into one. Total active clusters now: 426.
+Process 0: Closest pair to merge: 22 and 338 with distance 0.038952.
+Process 0: Merged clusters 22 and 338 into one. Total active clusters now: 425.
+Process 0: Closest pair to merge: 22 and 176 with distance 0.035084.
+Process 0: Merged clusters 22 and 176 into one. Total active clusters now: 424.
+Process 0: Closest pair to merge: 21 and 127 with distance 0.038966.
+Process 0: Merged clusters 21 and 127 into one. Total active clusters now: 423.
+Process 0: Closest pair to merge: 213 and 329 with distance 0.039244.
+Process 0: Merged clusters 213 and 329 into one. Total active clusters now: 422.
+Process 0: Closest pair to merge: 324 and 404 with distance 0.039469.
+Process 0: Merged clusters 324 and 404 into one. Total active clusters now: 421.
+Process 0: Closest pair to merge: 28 and 417 with distance 0.039555.
+Process 0: Merged clusters 28 and 417 into one. Total active clusters now: 420.
+Process 0: Closest pair to merge: 95 and 346 with distance 0.039609.
+Process 0: Merged clusters 95 and 346 into one. Total active clusters now: 419.
+Process 0: Closest pair to merge: 274 and 333 with distance 0.039704.
+Process 0: Merged clusters 274 and 333 into one. Total active clusters now: 418.
+Process 0: Closest pair to merge: 293 and 336 with distance 0.039783.
+Process 0: Merged clusters 293 and 336 into one. Total active clusters now: 417.
+Process 0: Closest pair to merge: 17 and 380 with distance 0.039817.
+Process 0: Merged clusters 17 and 380 into one. Total active clusters now: 416.
+Process 0: Closest pair to merge: 0 and 24 with distance 0.039872.
+Process 0: Merged clusters 0 and 24 into one. Total active clusters now: 415.
+Process 0: Closest pair to merge: 117 and 363 with distance 0.040036.
+Process 0: Merged clusters 117 and 363 into one. Total active clusters now: 414.
+Process 0: Closest pair to merge: 122 and 191 with distance 0.040285.
+Process 0: Merged clusters 122 and 191 into one. Total active clusters now: 413.
+Process 0: Closest pair to merge: 245 and 349 with distance 0.040422.
+Process 0: Merged clusters 245 and 349 into one. Total active clusters now: 412.
+Process 0: Closest pair to merge: 41 and 169 with distance 0.040433.
+Process 0: Merged clusters 41 and 169 into one. Total active clusters now: 411.
+Process 0: Closest pair to merge: 170 and 377 with distance 0.040480.
+Process 0: Merged clusters 170 and 377 into one. Total active clusters now: 410.
+Process 0: Closest pair to merge: 2 and 250 with distance 0.040503.
+Process 0: Merged clusters 2 and 250 into one. Total active clusters now: 409.
+Process 0: Closest pair to merge: 257 and 367 with distance 0.040745.
+Process 0: Merged clusters 257 and 367 into one. Total active clusters now: 408.
+Process 0: Closest pair to merge: 80 and 386 with distance 0.040768.
+Process 0: Merged clusters 80 and 386 into one. Total active clusters now: 407.
+Process 0: Closest pair to merge: 284 and 370 with distance 0.040863.
+Process 0: Merged clusters 284 and 370 into one. Total active clusters now: 406.
+Process 0: Closest pair to merge: 284 and 402 with distance 0.039657.
+Process 0: Merged clusters 284 and 402 into one. Total active clusters now: 405.
+Process 0: Closest pair to merge: 79 and 393 with distance 0.040880.
+Process 0: Merged clusters 79 and 393 into one. Total active clusters now: 404.
+Process 0: Closest pair to merge: 101 and 175 with distance 0.041002.
+Process 0: Merged clusters 101 and 175 into one. Total active clusters now: 403.
+Process 0: Closest pair to merge: 173 and 174 with distance 0.041082.
+Process 0: Merged clusters 173 and 174 into one. Total active clusters now: 402.
+Process 0: Closest pair to merge: 56 and 201 with distance 0.041089.
+Process 0: Merged clusters 56 and 201 into one. Total active clusters now: 401.
+Process 0: Closest pair to merge: 66 and 376 with distance 0.041118.
+Process 0: Merged clusters 66 and 376 into one. Total active clusters now: 400.
+Process 0: Closest pair to merge: 171 and 369 with distance 0.041182.
+Process 0: Merged clusters 171 and 369 into one. Total active clusters now: 399.
+Process 0: Closest pair to merge: 102 and 261 with distance 0.041189.
+Process 0: Merged clusters 102 and 261 into one. Total active clusters now: 398.
+Process 0: Closest pair to merge: 181 and 253 with distance 0.041250.
+Process 0: Merged clusters 181 and 253 into one. Total active clusters now: 397.
+Process 0: Closest pair to merge: 139 and 282 with distance 0.041272.
+Process 0: Merged clusters 139 and 282 into one. Total active clusters now: 396.
+Process 0: Closest pair to merge: 39 and 82 with distance 0.041354.
+Process 0: Merged clusters 39 and 82 into one. Total active clusters now: 395.
+Process 0: Closest pair to merge: 31 and 204 with distance 0.041468.
+Process 0: Merged clusters 31 and 204 into one. Total active clusters now: 394.
+Process 0: Closest pair to merge: 373 and 386 with distance 0.041609.
+Process 0: Merged clusters 373 and 386 into one. Total active clusters now: 393.
+Process 0: Closest pair to merge: 59 and 335 with distance 0.041613.
+Process 0: Merged clusters 59 and 335 into one. Total active clusters now: 392.
+Process 0: Closest pair to merge: 45 and 96 with distance 0.041754.
+Process 0: Merged clusters 45 and 96 into one. Total active clusters now: 391.
+Process 0: Closest pair to merge: 9 and 32 with distance 0.041788.
+Process 0: Merged clusters 9 and 32 into one. Total active clusters now: 390.
+Process 0: Closest pair to merge: 108 and 292 with distance 0.041804.
+Process 0: Merged clusters 108 and 292 into one. Total active clusters now: 389.
+Process 0: Closest pair to merge: 235 and 357 with distance 0.041846.
+Process 0: Merged clusters 235 and 357 into one. Total active clusters now: 388.
+Process 0: Closest pair to merge: 173 and 205 with distance 0.042056.
+Process 0: Merged clusters 173 and 205 into one. Total active clusters now: 387.
+Process 0: Closest pair to merge: 8 and 196 with distance 0.042164.
+Process 0: Merged clusters 8 and 196 into one. Total active clusters now: 386.
+Process 0: Closest pair to merge: 228 and 357 with distance 0.042233.
+Process 0: Merged clusters 228 and 357 into one. Total active clusters now: 385.
+Process 0: Closest pair to merge: 265 and 293 with distance 0.042293.
+Process 0: Merged clusters 265 and 293 into one. Total active clusters now: 384.
+Process 0: Closest pair to merge: 157 and 327 with distance 0.042333.
+Process 0: Merged clusters 157 and 327 into one. Total active clusters now: 383.
+Process 0: Closest pair to merge: 235 and 349 with distance 0.042897.
+Process 0: Merged clusters 235 and 349 into one. Total active clusters now: 382.
+Process 0: Closest pair to merge: 235 and 308 with distance 0.042361.
+Process 0: Merged clusters 235 and 308 into one. Total active clusters now: 381.
+Process 0: Closest pair to merge: 32 and 249 with distance 0.043099.
+Process 0: Merged clusters 32 and 249 into one. Total active clusters now: 380.
+Process 0: Closest pair to merge: 101 and 279 with distance 0.043103.
+Process 0: Merged clusters 101 and 279 into one. Total active clusters now: 379.
+Process 0: Closest pair to merge: 120 and 348 with distance 0.043124.
+Process 0: Merged clusters 120 and 348 into one. Total active clusters now: 378.
+Process 0: Closest pair to merge: 49 and 238 with distance 0.043294.
+Process 0: Merged clusters 49 and 238 into one. Total active clusters now: 377.
+Process 0: Closest pair to merge: 61 and 95 with distance 0.043450.
+Process 0: Merged clusters 61 and 95 into one. Total active clusters now: 376.
+Process 0: Closest pair to merge: 125 and 320 with distance 0.043457.
+Process 0: Merged clusters 125 and 320 into one. Total active clusters now: 375.
+Process 0: Closest pair to merge: 23 and 306 with distance 0.043818.
+Process 0: Merged clusters 23 and 306 into one. Total active clusters now: 374.
+Process 0: Closest pair to merge: 164 and 293 with distance 0.043875.
+Process 0: Merged clusters 164 and 293 into one. Total active clusters now: 373.
+Process 0: Closest pair to merge: 45 and 96 with distance 0.043887.
+Process 0: Merged clusters 45 and 96 into one. Total active clusters now: 372.
+Process 0: Closest pair to merge: 42 and 351 with distance 0.043919.
+Process 0: Merged clusters 42 and 351 into one. Total active clusters now: 371.
+Process 0: Closest pair to merge: 12 and 45 with distance 0.043972.
+Process 0: Merged clusters 12 and 45 into one. Total active clusters now: 370.
+Process 0: Closest pair to merge: 283 and 340 with distance 0.044060.
+Process 0: Merged clusters 283 and 340 into one. Total active clusters now: 369.
+Process 0: Closest pair to merge: 24 and 250 with distance 0.044114.
+Process 0: Merged clusters 24 and 250 into one. Total active clusters now: 368.
+Process 0: Closest pair to merge: 10 and 346 with distance 0.044335.
+Process 0: Merged clusters 10 and 346 into one. Total active clusters now: 367.
+Process 0: Closest pair to merge: 32 and 202 with distance 0.044604.
+Process 0: Merged clusters 32 and 202 into one. Total active clusters now: 366.
+Process 0: Closest pair to merge: 250 and 290 with distance 0.044620.
+Process 0: Merged clusters 250 and 290 into one. Total active clusters now: 365.
+Process 0: Closest pair to merge: 35 and 363 with distance 0.044695.
+Process 0: Merged clusters 35 and 363 into one. Total active clusters now: 364.
+Process 0: Closest pair to merge: 65 and 194 with distance 0.044695.
+Process 0: Merged clusters 65 and 194 into one. Total active clusters now: 363.
+Process 0: Closest pair to merge: 150 and 294 with distance 0.044767.
+Process 0: Merged clusters 150 and 294 into one. Total active clusters now: 362.
+Process 0: Closest pair to merge: 7 and 50 with distance 0.044974.
+Process 0: Merged clusters 7 and 50 into one. Total active clusters now: 361.
+Process 0: Closest pair to merge: 15 and 138 with distance 0.045013.
+Process 0: Merged clusters 15 and 138 into one. Total active clusters now: 360.
+Process 0: Closest pair to merge: 256 and 333 with distance 0.045187.
+Process 0: Merged clusters 256 and 333 into one. Total active clusters now: 359.
+Process 0: Closest pair to merge: 149 and 185 with distance 0.045231.
+Process 0: Merged clusters 149 and 185 into one. Total active clusters now: 358.
+Process 0: Closest pair to merge: 138 and 208 with distance 0.045265.
+Process 0: Merged clusters 138 and 208 into one. Total active clusters now: 357.
+Process 0: Closest pair to merge: 217 and 235 with distance 0.045283.
+Process 0: Merged clusters 217 and 235 into one. Total active clusters now: 356.
+Process 0: Closest pair to merge: 196 and 290 with distance 0.045467.
+Process 0: Merged clusters 196 and 290 into one. Total active clusters now: 355.
+Process 0: Closest pair to merge: 52 and 134 with distance 0.045584.
+Process 0: Merged clusters 52 and 134 into one. Total active clusters now: 354.
+Process 0: Closest pair to merge: 237 and 274 with distance 0.045730.
+Process 0: Merged clusters 237 and 274 into one. Total active clusters now: 353.
+Process 0: Closest pair to merge: 49 and 300 with distance 0.045848.
+Process 0: Merged clusters 49 and 300 into one. Total active clusters now: 352.
+Process 0: Closest pair to merge: 41 and 108 with distance 0.045999.
+Process 0: Merged clusters 41 and 108 into one. Total active clusters now: 351.
+Process 0: Closest pair to merge: 127 and 275 with distance 0.046007.
+Process 0: Merged clusters 127 and 275 into one. Total active clusters now: 350.
+Process 0: Closest pair to merge: 28 and 179 with distance 0.046012.
+Process 0: Merged clusters 28 and 179 into one. Total active clusters now: 349.
+Process 0: Closest pair to merge: 259 and 287 with distance 0.046014.
+Process 0: Merged clusters 259 and 287 into one. Total active clusters now: 348.
+Process 0: Closest pair to merge: 119 and 170 with distance 0.046095.
+Process 0: Merged clusters 119 and 170 into one. Total active clusters now: 347.
+Process 0: Closest pair to merge: 123 and 302 with distance 0.046329.
+Process 0: Merged clusters 123 and 302 into one. Total active clusters now: 346.
+Process 0: Closest pair to merge: 236 and 255 with distance 0.046375.
+Process 0: Merged clusters 236 and 255 into one. Total active clusters now: 345.
+Process 0: Closest pair to merge: 47 and 332 with distance 0.046418.
+Process 0: Merged clusters 47 and 332 into one. Total active clusters now: 344.
+Process 0: Closest pair to merge: 47 and 112 with distance 0.045502.
+Process 0: Merged clusters 47 and 112 into one. Total active clusters now: 343.
+Process 0: Closest pair to merge: 3 and 8 with distance 0.046497.
+Process 0: Merged clusters 3 and 8 into one. Total active clusters now: 342.
+Process 0: Closest pair to merge: 166 and 189 with distance 0.046656.
+Process 0: Merged clusters 166 and 189 into one. Total active clusters now: 341.
+Process 0: Closest pair to merge: 151 and 236 with distance 0.046681.
+Process 0: Merged clusters 151 and 236 into one. Total active clusters now: 340.
+Process 0: Closest pair to merge: 1 and 329 with distance 0.046706.
+Process 0: Merged clusters 1 and 329 into one. Total active clusters now: 339.
+Process 0: Closest pair to merge: 180 and 300 with distance 0.046841.
+Process 0: Merged clusters 180 and 300 into one. Total active clusters now: 338.
+Process 0: Closest pair to merge: 232 and 307 with distance 0.047029.
+Process 0: Merged clusters 232 and 307 into one. Total active clusters now: 337.
+Process 0: Closest pair to merge: 59 and 106 with distance 0.047091.
+Process 0: Merged clusters 59 and 106 into one. Total active clusters now: 336.
+Process 0: Closest pair to merge: 56 and 259 with distance 0.047231.
+Process 0: Merged clusters 56 and 259 into one. Total active clusters now: 335.
+Process 0: Closest pair to merge: 197 and 223 with distance 0.047307.
+Process 0: Merged clusters 197 and 223 into one. Total active clusters now: 334.
+Process 0: Closest pair to merge: 89 and 226 with distance 0.047356.
+Process 0: Merged clusters 89 and 226 into one. Total active clusters now: 333.
+Process 0: Closest pair to merge: 30 and 66 with distance 0.047429.
+Process 0: Merged clusters 30 and 66 into one. Total active clusters now: 332.
+Process 0: Closest pair to merge: 235 and 258 with distance 0.047692.
+Process 0: Merged clusters 235 and 258 into one. Total active clusters now: 331.
+Process 0: Closest pair to merge: 83 and 141 with distance 0.048268.
+Process 0: Merged clusters 83 and 141 into one. Total active clusters now: 330.
+Process 0: Closest pair to merge: 61 and 69 with distance 0.048525.
+Process 0: Merged clusters 61 and 69 into one. Total active clusters now: 329.
+Process 0: Closest pair to merge: 16 and 169 with distance 0.048743.
+Process 0: Merged clusters 16 and 169 into one. Total active clusters now: 328.
+Process 0: Closest pair to merge: 96 and 216 with distance 0.048863.
+Process 0: Merged clusters 96 and 216 into one. Total active clusters now: 327.
+Process 0: Closest pair to merge: 129 and 256 with distance 0.049108.
+Process 0: Merged clusters 129 and 256 into one. Total active clusters now: 326.
+Process 0: Closest pair to merge: 119 and 230 with distance 0.049402.
+Process 0: Merged clusters 119 and 230 into one. Total active clusters now: 325.
+Process 0: Closest pair to merge: 274 and 323 with distance 0.049442.
+Process 0: Merged clusters 274 and 323 into one. Total active clusters now: 324.
+Process 0: Closest pair to merge: 263 and 302 with distance 0.049582.
+Process 0: Merged clusters 263 and 302 into one. Total active clusters now: 323.
+Process 0: Closest pair to merge: 42 and 237 with distance 0.049678.
+Process 0: Merged clusters 42 and 237 into one. Total active clusters now: 322.
+Process 0: Closest pair to merge: 103 and 211 with distance 0.049726.
+Process 0: Merged clusters 103 and 211 into one. Total active clusters now: 321.
+Process 0: Closest pair to merge: 164 and 186 with distance 0.049804.
+Process 0: Merged clusters 164 and 186 into one. Total active clusters now: 320.
+Process 0: Closest pair to merge: 176 and 308 with distance 0.049808.
+Process 0: Merged clusters 176 and 308 into one. Total active clusters now: 319.
+Process 0: Closest pair to merge: 200 and 246 with distance 0.049818.
+Process 0: Merged clusters 200 and 246 into one. Total active clusters now: 318.
+Process 0: Closest pair to merge: 45 and 172 with distance 0.049852.
+Process 0: Merged clusters 45 and 172 into one. Total active clusters now: 317.
+Process 0: Closest pair to merge: 212 and 300 with distance 0.050037.
+Process 0: Merged clusters 212 and 300 into one. Total active clusters now: 316.
+Process 0: Closest pair to merge: 139 and 177 with distance 0.050047.
+Process 0: Merged clusters 139 and 177 into one. Total active clusters now: 315.
+Process 0: Closest pair to merge: 131 and 209 with distance 0.050088.
+Process 0: Merged clusters 131 and 209 into one. Total active clusters now: 314.
+Process 0: Closest pair to merge: 41 and 83 with distance 0.050113.
+Process 0: Merged clusters 41 and 83 into one. Total active clusters now: 313.
+Process 0: Closest pair to merge: 132 and 216 with distance 0.050681.
+Process 0: Merged clusters 132 and 216 into one. Total active clusters now: 312.
+Process 0: Closest pair to merge: 80 and 259 with distance 0.051005.
+Process 0: Merged clusters 80 and 259 into one. Total active clusters now: 311.
+Process 0: Closest pair to merge: 64 and 94 with distance 0.051058.
+Process 0: Merged clusters 64 and 94 into one. Total active clusters now: 310.
+Process 0: Closest pair to merge: 92 and 286 with distance 0.051211.
+Process 0: Merged clusters 92 and 286 into one. Total active clusters now: 309.
+Process 0: Closest pair to merge: 63 and 223 with distance 0.051246.
+Process 0: Merged clusters 63 and 223 into one. Total active clusters now: 308.
+Process 0: Closest pair to merge: 104 and 147 with distance 0.051562.
+Process 0: Merged clusters 104 and 147 into one. Total active clusters now: 307.
+Process 0: Closest pair to merge: 156 and 275 with distance 0.051630.
+Process 0: Merged clusters 156 and 275 into one. Total active clusters now: 306.
+Process 0: Closest pair to merge: 165 and 180 with distance 0.051728.
+Process 0: Merged clusters 165 and 180 into one. Total active clusters now: 305.
+Process 0: Closest pair to merge: 177 and 297 with distance 0.051742.
+Process 0: Merged clusters 177 and 297 into one. Total active clusters now: 304.
+Process 0: Closest pair to merge: 46 and 282 with distance 0.051755.
+Process 0: Merged clusters 46 and 282 into one. Total active clusters now: 303.
+Process 0: Closest pair to merge: 9 and 113 with distance 0.051773.
+Process 0: Merged clusters 9 and 113 into one. Total active clusters now: 302.
+Process 0: Closest pair to merge: 1 and 248 with distance 0.051902.
+Process 0: Merged clusters 1 and 248 into one. Total active clusters now: 301.
+Process 0: Closest pair to merge: 144 and 149 with distance 0.051963.
+Process 0: Merged clusters 144 and 149 into one. Total active clusters now: 300.
+Process 0: Closest pair to merge: 134 and 267 with distance 0.051979.
+Process 0: Merged clusters 134 and 267 into one. Total active clusters now: 299.
+Process 0: Closest pair to merge: 171 and 248 with distance 0.052068.
+Process 0: Merged clusters 171 and 248 into one. Total active clusters now: 298.
+Process 0: Closest pair to merge: 212 and 220 with distance 0.052140.
+Process 0: Merged clusters 212 and 220 into one. Total active clusters now: 297.
+Process 0: Closest pair to merge: 187 and 257 with distance 0.052315.
+Process 0: Merged clusters 187 and 257 into one. Total active clusters now: 296.
+Process 0: Closest pair to merge: 58 and 247 with distance 0.052318.
+Process 0: Merged clusters 58 and 247 into one. Total active clusters now: 295.
+Process 0: Closest pair to merge: 27 and 230 with distance 0.052476.
+Process 0: Merged clusters 27 and 230 into one. Total active clusters now: 294.
+Process 0: Closest pair to merge: 111 and 153 with distance 0.052489.
+Process 0: Merged clusters 111 and 153 into one. Total active clusters now: 293.
+Process 0: Closest pair to merge: 10 and 104 with distance 0.052576.
+Process 0: Merged clusters 10 and 104 into one. Total active clusters now: 292.
+Process 0: Closest pair to merge: 12 and 114 with distance 0.052813.
+Process 0: Merged clusters 12 and 114 into one. Total active clusters now: 291.
+Process 0: Closest pair to merge: 216 and 254 with distance 0.052973.
+Process 0: Merged clusters 216 and 254 into one. Total active clusters now: 290.
+Process 0: Closest pair to merge: 133 and 205 with distance 0.053198.
+Process 0: Merged clusters 133 and 205 into one. Total active clusters now: 289.
+Process 0: Closest pair to merge: 115 and 263 with distance 0.053329.
+Process 0: Merged clusters 115 and 263 into one. Total active clusters now: 288.
+Process 0: Closest pair to merge: 17 and 20 with distance 0.053375.
+Process 0: Merged clusters 17 and 20 into one. Total active clusters now: 287.
+Process 0: Closest pair to merge: 117 and 222 with distance 0.053402.
+Process 0: Merged clusters 117 and 222 into one. Total active clusters now: 286.
+Process 0: Closest pair to merge: 11 and 108 with distance 0.053662.
+Process 0: Merged clusters 11 and 108 into one. Total active clusters now: 285.
+Process 0: Closest pair to merge: 80 and 230 with distance 0.053887.
+Process 0: Merged clusters 80 and 230 into one. Total active clusters now: 284.
+Process 0: Closest pair to merge: 167 and 268 with distance 0.053939.
+Process 0: Merged clusters 167 and 268 into one. Total active clusters now: 283.
+Process 0: Closest pair to merge: 243 and 258 with distance 0.053947.
+Process 0: Merged clusters 243 and 258 into one. Total active clusters now: 282.
+Process 0: Closest pair to merge: 19 and 72 with distance 0.054222.
+Process 0: Merged clusters 19 and 72 into one. Total active clusters now: 281.
+Process 0: Closest pair to merge: 137 and 150 with distance 0.054483.
+Process 0: Merged clusters 137 and 150 into one. Total active clusters now: 280.
+Process 0: Closest pair to merge: 3 and 18 with distance 0.054536.
+Process 0: Merged clusters 3 and 18 into one. Total active clusters now: 279.
+Process 0: Closest pair to merge: 34 and 247 with distance 0.054944.
+Process 0: Merged clusters 34 and 247 into one. Total active clusters now: 278.
+Process 0: Closest pair to merge: 51 and 177 with distance 0.055000.
+Process 0: Merged clusters 51 and 177 into one. Total active clusters now: 277.
+Process 0: Closest pair to merge: 196 and 246 with distance 0.055021.
+Process 0: Merged clusters 196 and 246 into one. Total active clusters now: 276.
+Process 0: Closest pair to merge: 197 and 213 with distance 0.055059.
+Process 0: Merged clusters 197 and 213 into one. Total active clusters now: 275.
+Process 0: Closest pair to merge: 84 and 190 with distance 0.055128.
+Process 0: Merged clusters 84 and 190 into one. Total active clusters now: 274.
+Process 0: Closest pair to merge: 35 and 218 with distance 0.055162.
+Process 0: Merged clusters 35 and 218 into one. Total active clusters now: 273.
+Process 0: Closest pair to merge: 26 and 260 with distance 0.055606.
+Process 0: Merged clusters 26 and 260 into one. Total active clusters now: 272.
+Process 0: Closest pair to merge: 134 and 195 with distance 0.055692.
+Process 0: Merged clusters 134 and 195 into one. Total active clusters now: 271.
+Process 0: Closest pair to merge: 170 and 227 with distance 0.055876.
+Process 0: Merged clusters 170 and 227 into one. Total active clusters now: 270.
+Process 0: Closest pair to merge: 46 and 172 with distance 0.055888.
+Process 0: Merged clusters 46 and 172 into one. Total active clusters now: 269.
+Process 0: Closest pair to merge: 63 and 179 with distance 0.056038.
+Process 0: Merged clusters 63 and 179 into one. Total active clusters now: 268.
+Process 0: Closest pair to merge: 75 and 183 with distance 0.056251.
+Process 0: Merged clusters 75 and 183 into one. Total active clusters now: 267.
+Process 0: Closest pair to merge: 57 and 93 with distance 0.056272.
+Process 0: Merged clusters 57 and 93 into one. Total active clusters now: 266.
+Process 0: Closest pair to merge: 64 and 226 with distance 0.056307.
+Process 0: Merged clusters 64 and 226 into one. Total active clusters now: 265.
+Process 0: Closest pair to merge: 136 and 253 with distance 0.056325.
+Process 0: Merged clusters 136 and 253 into one. Total active clusters now: 264.
+Process 0: Closest pair to merge: 75 and 236 with distance 0.056674.
+Process 0: Merged clusters 75 and 236 into one. Total active clusters now: 263.
+Process 0: Closest pair to merge: 155 and 227 with distance 0.056740.
+Process 0: Merged clusters 155 and 227 into one. Total active clusters now: 262.
+Process 0: Closest pair to merge: 179 and 243 with distance 0.056840.
+Process 0: Merged clusters 179 and 243 into one. Total active clusters now: 261.
+Process 0: Closest pair to merge: 212 and 239 with distance 0.056993.
+Process 0: Merged clusters 212 and 239 into one. Total active clusters now: 260.
+Process 0: Closest pair to merge: 167 and 198 with distance 0.057274.
+Process 0: Merged clusters 167 and 198 into one. Total active clusters now: 259.
+Process 0: Closest pair to merge: 71 and 207 with distance 0.057313.
+Process 0: Merged clusters 71 and 207 into one. Total active clusters now: 258.
+Process 0: Closest pair to merge: 160 and 253 with distance 0.057433.
+Process 0: Merged clusters 160 and 253 into one. Total active clusters now: 257.
+Process 0: Closest pair to merge: 54 and 173 with distance 0.057591.
+Process 0: Merged clusters 54 and 173 into one. Total active clusters now: 256.
+Process 0: Closest pair to merge: 116 and 214 with distance 0.057678.
+Process 0: Merged clusters 116 and 214 into one. Total active clusters now: 255.
+Process 0: Closest pair to merge: 58 and 173 with distance 0.057801.
+Process 0: Merged clusters 58 and 173 into one. Total active clusters now: 254.
+Process 0: Closest pair to merge: 22 and 37 with distance 0.058298.
+Process 0: Merged clusters 22 and 37 into one. Total active clusters now: 253.
+Process 0: Closest pair to merge: 9 and 37 with distance 0.058479.
+Process 0: Merged clusters 9 and 37 into one. Total active clusters now: 252.
+Process 0: Closest pair to merge: 40 and 84 with distance 0.058581.
+Process 0: Merged clusters 40 and 84 into one. Total active clusters now: 251.
+Process 0: Closest pair to merge: 5 and 190 with distance 0.058794.
+Process 0: Merged clusters 5 and 190 into one. Total active clusters now: 250.
+Process 0: Closest pair to merge: 117 and 183 with distance 0.058868.
+Process 0: Merged clusters 117 and 183 into one. Total active clusters now: 249.
+Process 0: Closest pair to merge: 38 and 114 with distance 0.059304.
+Process 0: Merged clusters 38 and 114 into one. Total active clusters now: 248.
+Process 0: Closest pair to merge: 24 and 180 with distance 0.059592.
+Process 0: Merged clusters 24 and 180 into one. Total active clusters now: 247.
+Process 0: Closest pair to merge: 93 and 136 with distance 0.059635.
+Process 0: Merged clusters 93 and 136 into one. Total active clusters now: 246.
+Process 0: Closest pair to merge: 210 and 230 with distance 0.059970.
+Process 0: Merged clusters 210 and 230 into one. Total active clusters now: 245.
+Process 0: Closest pair to merge: 111 and 210 with distance 0.059823.
+Process 0: Merged clusters 111 and 210 into one. Total active clusters now: 244.
+Process 0: Closest pair to merge: 39 and 190 with distance 0.060094.
+Process 0: Merged clusters 39 and 190 into one. Total active clusters now: 243.
+Process 0: Closest pair to merge: 97 and 106 with distance 0.060213.
+Process 0: Merged clusters 97 and 106 into one. Total active clusters now: 242.
+Process 0: Closest pair to merge: 48 and 199 with distance 0.060223.
+Process 0: Merged clusters 48 and 199 into one. Total active clusters now: 241.
+Process 0: Closest pair to merge: 46 and 212 with distance 0.060247.
+Process 0: Merged clusters 46 and 212 into one. Total active clusters now: 240.
+Process 0: Closest pair to merge: 108 and 133 with distance 0.060328.
+Process 0: Merged clusters 108 and 133 into one. Total active clusters now: 239.
+Process 0: Closest pair to merge: 165 and 233 with distance 0.060633.
+Process 0: Merged clusters 165 and 233 into one. Total active clusters now: 238.
+Process 0: Closest pair to merge: 91 and 227 with distance 0.060635.
+Process 0: Merged clusters 91 and 227 into one. Total active clusters now: 237.
+Process 0: Closest pair to merge: 20 and 192 with distance 0.060926.
+Process 0: Merged clusters 20 and 192 into one. Total active clusters now: 236.
+Process 0: Closest pair to merge: 71 and 101 with distance 0.061084.
+Process 0: Merged clusters 71 and 101 into one. Total active clusters now: 235.
+Process 0: Closest pair to merge: 14 and 15 with distance 0.061203.
+Process 0: Merged clusters 14 and 15 into one. Total active clusters now: 234.
+Process 0: Closest pair to merge: 129 and 186 with distance 0.061580.
+Process 0: Merged clusters 129 and 186 into one. Total active clusters now: 233.
+Process 0: Closest pair to merge: 54 and 213 with distance 0.062123.
+Process 0: Merged clusters 54 and 213 into one. Total active clusters now: 232.
+Process 0: Closest pair to merge: 3 and 13 with distance 0.062464.
+Process 0: Merged clusters 3 and 13 into one. Total active clusters now: 231.
+Process 0: Closest pair to merge: 85 and 104 with distance 0.062484.
+Process 0: Merged clusters 85 and 104 into one. Total active clusters now: 230.
+Process 0: Closest pair to merge: 140 and 215 with distance 0.062694.
+Process 0: Merged clusters 140 and 215 into one. Total active clusters now: 229.
+Process 0: Closest pair to merge: 24 and 28 with distance 0.062771.
+Process 0: Merged clusters 24 and 28 into one. Total active clusters now: 228.
+Process 0: Closest pair to merge: 93 and 113 with distance 0.062798.
+Process 0: Merged clusters 93 and 113 into one. Total active clusters now: 227.
+Process 0: Closest pair to merge: 162 and 193 with distance 0.062978.
+Process 0: Merged clusters 162 and 193 into one. Total active clusters now: 226.
+Process 0: Closest pair to merge: 75 and 131 with distance 0.063042.
+Process 0: Merged clusters 75 and 131 into one. Total active clusters now: 225.
+Process 0: Closest pair to merge: 132 and 204 with distance 0.063064.
+Process 0: Merged clusters 132 and 204 into one. Total active clusters now: 224.
+Process 0: Closest pair to merge: 17 and 162 with distance 0.063134.
+Process 0: Merged clusters 17 and 162 into one. Total active clusters now: 223.
+Process 0: Closest pair to merge: 34 and 185 with distance 0.063418.
+Process 0: Merged clusters 34 and 185 into one. Total active clusters now: 222.
+Process 0: Closest pair to merge: 67 and 92 with distance 0.063854.
+Process 0: Merged clusters 67 and 92 into one. Total active clusters now: 221.
+Process 0: Closest pair to merge: 6 and 10 with distance 0.064167.
+Process 0: Merged clusters 6 and 10 into one. Total active clusters now: 220.
+Process 0: Closest pair to merge: 0 and 172 with distance 0.064300.
+Process 0: Merged clusters 0 and 172 into one. Total active clusters now: 219.
+Process 0: Closest pair to merge: 116 and 175 with distance 0.064692.
+Process 0: Merged clusters 116 and 175 into one. Total active clusters now: 218.
+Process 0: Closest pair to merge: 86 and 105 with distance 0.064921.
+Process 0: Merged clusters 86 and 105 into one. Total active clusters now: 217.
+Process 0: Closest pair to merge: 126 and 183 with distance 0.065040.
+Process 0: Merged clusters 126 and 183 into one. Total active clusters now: 216.
+Process 0: Closest pair to merge: 7 and 173 with distance 0.065092.
+Process 0: Merged clusters 7 and 173 into one. Total active clusters now: 215.
+Process 0: Closest pair to merge: 109 and 130 with distance 0.065153.
+Process 0: Merged clusters 109 and 130 into one. Total active clusters now: 214.
+Process 0: Closest pair to merge: 57 and 87 with distance 0.065247.
+Process 0: Merged clusters 57 and 87 into one. Total active clusters now: 213.
+Process 0: Closest pair to merge: 105 and 127 with distance 0.065394.
+Process 0: Merged clusters 105 and 127 into one. Total active clusters now: 212.
+Process 0: Closest pair to merge: 112 and 179 with distance 0.065411.
+Process 0: Merged clusters 112 and 179 into one. Total active clusters now: 211.
+Process 0: Closest pair to merge: 8 and 203 with distance 0.065633.
+Process 0: Merged clusters 8 and 203 into one. Total active clusters now: 210.
+Process 0: Closest pair to merge: 68 and 164 with distance 0.065843.
+Process 0: Merged clusters 68 and 164 into one. Total active clusters now: 209.
+Process 0: Closest pair to merge: 150 and 206 with distance 0.065908.
+Process 0: Merged clusters 150 and 206 into one. Total active clusters now: 208.
+Process 0: Closest pair to merge: 19 and 153 with distance 0.066050.
+Process 0: Merged clusters 19 and 153 into one. Total active clusters now: 207.
+Process 0: Closest pair to merge: 119 and 132 with distance 0.066149.
+Process 0: Merged clusters 119 and 132 into one. Total active clusters now: 206.
+Process 0: Closest pair to merge: 116 and 202 with distance 0.066459.
+Process 0: Merged clusters 116 and 202 into one. Total active clusters now: 205.
+Process 0: Closest pair to merge: 80 and 87 with distance 0.066708.
+Process 0: Merged clusters 80 and 87 into one. Total active clusters now: 204.
+Process 0: Closest pair to merge: 72 and 128 with distance 0.066712.
+Process 0: Merged clusters 72 and 128 into one. Total active clusters now: 203.
+Process 0: Closest pair to merge: 75 and 88 with distance 0.066802.
+Process 0: Merged clusters 75 and 88 into one. Total active clusters now: 202.
+Process 0: Closest pair to merge: 182 and 188 with distance 0.066909.
+Process 0: Merged clusters 182 and 188 into one. Total active clusters now: 201.
+Process 0: Closest pair to merge: 127 and 188 with distance 0.067611.
+Process 0: Merged clusters 127 and 188 into one. Total active clusters now: 200.
+Process 0: Closest pair to merge: 94 and 133 with distance 0.068010.
+Process 0: Merged clusters 94 and 133 into one. Total active clusters now: 199.
+Process 0: Closest pair to merge: 0 and 168 with distance 0.068097.
+Process 0: Merged clusters 0 and 168 into one. Total active clusters now: 198.
+Process 0: Closest pair to merge: 53 and 115 with distance 0.068206.
+Process 0: Merged clusters 53 and 115 into one. Total active clusters now: 197.
+Process 0: Closest pair to merge: 136 and 137 with distance 0.068469.
+Process 0: Merged clusters 136 and 137 into one. Total active clusters now: 196.
+Process 0: Closest pair to merge: 15 and 193 with distance 0.068706.
+Process 0: Merged clusters 15 and 193 into one. Total active clusters now: 195.
+Process 0: Closest pair to merge: 14 and 131 with distance 0.068738.
+Process 0: Merged clusters 14 and 131 into one. Total active clusters now: 194.
+Process 0: Closest pair to merge: 132 and 140 with distance 0.068743.
+Process 0: Merged clusters 132 and 140 into one. Total active clusters now: 193.
+Process 0: Closest pair to merge: 150 and 180 with distance 0.069032.
+Process 0: Merged clusters 150 and 180 into one. Total active clusters now: 192.
+Process 0: Closest pair to merge: 164 and 184 with distance 0.069123.
+Process 0: Merged clusters 164 and 184 into one. Total active clusters now: 191.
+Process 0: Closest pair to merge: 81 and 131 with distance 0.069188.
+Process 0: Merged clusters 81 and 131 into one. Total active clusters now: 190.
+Process 0: Closest pair to merge: 56 and 90 with distance 0.069294.
+Process 0: Merged clusters 56 and 90 into one. Total active clusters now: 189.
+Process 0: Closest pair to merge: 69 and 183 with distance 0.069356.
+Process 0: Merged clusters 69 and 183 into one. Total active clusters now: 188.
+Process 0: Closest pair to merge: 26 and 180 with distance 0.069449.
+Process 0: Merged clusters 26 and 180 into one. Total active clusters now: 187.
+Process 0: Closest pair to merge: 140 and 169 with distance 0.069509.
+Process 0: Merged clusters 140 and 169 into one. Total active clusters now: 186.
+Process 0: Closest pair to merge: 94 and 152 with distance 0.069606.
+Process 0: Merged clusters 94 and 152 into one. Total active clusters now: 185.
+Process 0: Closest pair to merge: 135 and 149 with distance 0.069966.
+Process 0: Merged clusters 135 and 149 into one. Total active clusters now: 184.
+Process 0: Closest pair to merge: 134 and 165 with distance 0.070457.
+Process 0: Merged clusters 134 and 165 into one. Total active clusters now: 183.
+Process 0: Closest pair to merge: 71 and 147 with distance 0.070569.
+Process 0: Merged clusters 71 and 147 into one. Total active clusters now: 182.
+Process 0: Closest pair to merge: 121 and 178 with distance 0.070710.
+Process 0: Merged clusters 121 and 178 into one. Total active clusters now: 181.
+Process 0: Closest pair to merge: 157 and 158 with distance 0.070922.
+Process 0: Merged clusters 157 and 158 into one. Total active clusters now: 180.
+Process 0: Closest pair to merge: 122 and 170 with distance 0.070925.
+Process 0: Merged clusters 122 and 170 into one. Total active clusters now: 179.
+Process 0: Closest pair to merge: 63 and 122 with distance 0.070582.
+Process 0: Merged clusters 63 and 122 into one. Total active clusters now: 178.
+Process 0: Closest pair to merge: 65 and 146 with distance 0.071317.
+Process 0: Merged clusters 65 and 146 into one. Total active clusters now: 177.
+Process 0: Closest pair to merge: 134 and 159 with distance 0.071408.
+Process 0: Merged clusters 134 and 159 into one. Total active clusters now: 176.
+Process 0: Closest pair to merge: 62 and 174 with distance 0.071510.
+Process 0: Merged clusters 62 and 174 into one. Total active clusters now: 175.
+Process 0: Closest pair to merge: 13 and 76 with distance 0.071764.
+Process 0: Merged clusters 13 and 76 into one. Total active clusters now: 174.
+Process 0: Closest pair to merge: 152 and 173 with distance 0.072201.
+Process 0: Merged clusters 152 and 173 into one. Total active clusters now: 173.
+Process 0: Closest pair to merge: 36 and 39 with distance 0.072308.
+Process 0: Merged clusters 36 and 39 into one. Total active clusters now: 172.
+Process 0: Closest pair to merge: 27 and 165 with distance 0.072496.
+Process 0: Merged clusters 27 and 165 into one. Total active clusters now: 171.
+Process 0: Closest pair to merge: 89 and 162 with distance 0.072509.
+Process 0: Merged clusters 89 and 162 into one. Total active clusters now: 170.
+Process 0: Closest pair to merge: 48 and 53 with distance 0.072654.
+Process 0: Merged clusters 48 and 53 into one. Total active clusters now: 169.
+Process 0: Closest pair to merge: 66 and 76 with distance 0.072685.
+Process 0: Merged clusters 66 and 76 into one. Total active clusters now: 168.
+Process 0: Closest pair to merge: 11 and 102 with distance 0.073425.
+Process 0: Merged clusters 11 and 102 into one. Total active clusters now: 167.
+Process 0: Closest pair to merge: 67 and 81 with distance 0.074085.
+Process 0: Merged clusters 67 and 81 into one. Total active clusters now: 166.
+Process 0: Closest pair to merge: 71 and 131 with distance 0.074099.
+Process 0: Merged clusters 71 and 131 into one. Total active clusters now: 165.
+Process 0: Closest pair to merge: 71 and 164 with distance 0.073745.
+Process 0: Merged clusters 71 and 164 into one. Total active clusters now: 164.
+Process 0: Closest pair to merge: 60 and 143 with distance 0.074780.
+Process 0: Merged clusters 60 and 143 into one. Total active clusters now: 163.
+Process 0: Closest pair to merge: 33 and 133 with distance 0.074854.
+Process 0: Merged clusters 33 and 133 into one. Total active clusters now: 162.
+Process 0: Closest pair to merge: 51 and 98 with distance 0.075202.
+Process 0: Merged clusters 51 and 98 into one. Total active clusters now: 161.
+Process 0: Closest pair to merge: 2 and 138 with distance 0.075495.
+Process 0: Merged clusters 2 and 138 into one. Total active clusters now: 160.
+Process 0: Closest pair to merge: 82 and 86 with distance 0.076024.
+Process 0: Merged clusters 82 and 86 into one. Total active clusters now: 159.
+Process 0: Closest pair to merge: 100 and 137 with distance 0.076057.
+Process 0: Merged clusters 100 and 137 into one. Total active clusters now: 158.
+Process 0: Closest pair to merge: 86 and 135 with distance 0.076965.
+Process 0: Merged clusters 86 and 135 into one. Total active clusters now: 157.
+Process 0: Closest pair to merge: 137 and 152 with distance 0.077104.
+Process 0: Merged clusters 137 and 152 into one. Total active clusters now: 156.
+Process 0: Closest pair to merge: 45 and 153 with distance 0.077407.
+Process 0: Merged clusters 45 and 153 into one. Total active clusters now: 155.
+Process 0: Closest pair to merge: 77 and 122 with distance 0.078127.
+Process 0: Merged clusters 77 and 122 into one. Total active clusters now: 154.
+Process 0: Closest pair to merge: 4 and 17 with distance 0.078205.
+Process 0: Merged clusters 4 and 17 into one. Total active clusters now: 153.
+Process 0: Closest pair to merge: 39 and 133 with distance 0.078497.
+Process 0: Merged clusters 39 and 133 into one. Total active clusters now: 152.
+Process 0: Closest pair to merge: 48 and 52 with distance 0.078814.
+Process 0: Merged clusters 48 and 52 into one. Total active clusters now: 151.
+Process 0: Closest pair to merge: 83 and 92 with distance 0.079028.
+Process 0: Merged clusters 83 and 92 into one. Total active clusters now: 150.
+Process 0: Closest pair to merge: 112 and 124 with distance 0.079043.
+Process 0: Merged clusters 112 and 124 into one. Total active clusters now: 149.
+Process 0: Closest pair to merge: 89 and 132 with distance 0.079251.
+Process 0: Merged clusters 89 and 132 into one. Total active clusters now: 148.
+Process 0: Closest pair to merge: 76 and 140 with distance 0.079283.
+Process 0: Merged clusters 76 and 140 into one. Total active clusters now: 147.
+Process 0: Closest pair to merge: 37 and 41 with distance 0.079491.
+Process 0: Merged clusters 37 and 41 into one. Total active clusters now: 146.
+Process 0: Closest pair to merge: 22 and 126 with distance 0.079716.
+Process 0: Merged clusters 22 and 126 into one. Total active clusters now: 145.
+Process 0: Closest pair to merge: 73 and 86 with distance 0.079781.
+Process 0: Merged clusters 73 and 86 into one. Total active clusters now: 144.
+Process 0: Closest pair to merge: 29 and 66 with distance 0.079872.
+Process 0: Merged clusters 29 and 66 into one. Total active clusters now: 143.
+Process 0: Closest pair to merge: 12 and 69 with distance 0.080711.
+Process 0: Merged clusters 12 and 69 into one. Total active clusters now: 142.
+Process 0: Closest pair to merge: 54 and 140 with distance 0.080927.
+Process 0: Merged clusters 54 and 140 into one. Total active clusters now: 141.
+Process 0: Closest pair to merge: 62 and 115 with distance 0.081015.
+Process 0: Merged clusters 62 and 115 into one. Total active clusters now: 140.
+Process 0: Closest pair to merge: 90 and 139 with distance 0.081762.
+Process 0: Merged clusters 90 and 139 into one. Total active clusters now: 139.
+Process 0: Closest pair to merge: 2 and 122 with distance 0.082120.
+Process 0: Merged clusters 2 and 122 into one. Total active clusters now: 138.
+Process 0: Closest pair to merge: 27 and 91 with distance 0.082457.
+Process 0: Merged clusters 27 and 91 into one. Total active clusters now: 137.
+Process 0: Closest pair to merge: 93 and 133 with distance 0.082605.
+Process 0: Merged clusters 93 and 133 into one. Total active clusters now: 136.
+Process 0: Closest pair to merge: 21 and 131 with distance 0.083774.
+Process 0: Merged clusters 21 and 131 into one. Total active clusters now: 135.
+Process 0: Closest pair to merge: 128 and 133 with distance 0.083899.
+Process 0: Merged clusters 128 and 133 into one. Total active clusters now: 134.
+Process 0: Closest pair to merge: 61 and 103 with distance 0.084417.
+Process 0: Merged clusters 61 and 103 into one. Total active clusters now: 133.
+Process 0: Closest pair to merge: 7 and 70 with distance 0.084596.
+Process 0: Merged clusters 7 and 70 into one. Total active clusters now: 132.
+Process 0: Closest pair to merge: 97 and 106 with distance 0.084734.
+Process 0: Merged clusters 97 and 106 into one. Total active clusters now: 131.
+Process 0: Closest pair to merge: 80 and 99 with distance 0.085331.
+Process 0: Merged clusters 80 and 99 into one. Total active clusters now: 130.
+Process 0: Closest pair to merge: 42 and 43 with distance 0.085454.
+Process 0: Merged clusters 42 and 43 into one. Total active clusters now: 129.
+Process 0: Closest pair to merge: 40 and 91 with distance 0.085784.
+Process 0: Merged clusters 40 and 91 into one. Total active clusters now: 128.
+Process 0: Closest pair to merge: 76 and 114 with distance 0.085841.
+Process 0: Merged clusters 76 and 114 into one. Total active clusters now: 127.
+Process 0: Closest pair to merge: 54 and 109 with distance 0.085903.
+Process 0: Merged clusters 54 and 109 into one. Total active clusters now: 126.
+Process 0: Closest pair to merge: 44 and 86 with distance 0.086071.
+Process 0: Merged clusters 44 and 86 into one. Total active clusters now: 125.
+Process 0: Closest pair to merge: 41 and 77 with distance 0.086989.
+Process 0: Merged clusters 41 and 77 into one. Total active clusters now: 124.
+Process 0: Closest pair to merge: 69 and 108 with distance 0.087441.
+Process 0: Merged clusters 69 and 108 into one. Total active clusters now: 123.
+Process 0: Closest pair to merge: 33 and 118 with distance 0.087874.
+Process 0: Merged clusters 33 and 118 into one. Total active clusters now: 122.
+Process 0: Closest pair to merge: 19 and 74 with distance 0.088533.
+Process 0: Merged clusters 19 and 74 into one. Total active clusters now: 121.
+Process 0: Closest pair to merge: 89 and 98 with distance 0.088648.
+Process 0: Merged clusters 89 and 98 into one. Total active clusters now: 120.
+Process 0: Closest pair to merge: 30 and 111 with distance 0.088932.
+Process 0: Merged clusters 30 and 111 into one. Total active clusters now: 119.
+Process 0: Closest pair to merge: 9 and 58 with distance 0.089228.
+Process 0: Merged clusters 9 and 58 into one. Total active clusters now: 118.
+Process 0: Closest pair to merge: 89 and 108 with distance 0.089691.
+Process 0: Merged clusters 89 and 108 into one. Total active clusters now: 117.
+Process 0: Closest pair to merge: 0 and 36 with distance 0.090102.
+Process 0: Merged clusters 0 and 36 into one. Total active clusters now: 116.
+Process 0: Closest pair to merge: 34 and 69 with distance 0.090291.
+Process 0: Merged clusters 34 and 69 into one. Total active clusters now: 115.
+Process 0: Closest pair to merge: 56 and 99 with distance 0.090340.
+Process 0: Merged clusters 56 and 99 into one. Total active clusters now: 114.
+Process 0: Closest pair to merge: 93 and 109 with distance 0.090856.
+Process 0: Merged clusters 93 and 109 into one. Total active clusters now: 113.
+Process 0: Closest pair to merge: 20 and 77 with distance 0.091208.
+Process 0: Merged clusters 20 and 77 into one. Total active clusters now: 112.
+Process 0: Closest pair to merge: 26 and 107 with distance 0.092104.
+Process 0: Merged clusters 26 and 107 into one. Total active clusters now: 111.
+Process 0: Closest pair to merge: 14 and 18 with distance 0.092314.
+Process 0: Merged clusters 14 and 18 into one. Total active clusters now: 110.
+Process 0: Closest pair to merge: 64 and 89 with distance 0.093180.
+Process 0: Merged clusters 64 and 89 into one. Total active clusters now: 109.
+Process 0: Closest pair to merge: 48 and 58 with distance 0.093810.
+Process 0: Merged clusters 48 and 58 into one. Total active clusters now: 108.
+Process 0: Closest pair to merge: 42 and 82 with distance 0.094703.
+Process 0: Merged clusters 42 and 82 into one. Total active clusters now: 107.
+Process 0: Closest pair to merge: 5 and 15 with distance 0.094908.
+Process 0: Merged clusters 5 and 15 into one. Total active clusters now: 106.
+Process 0: Closest pair to merge: 34 and 93 with distance 0.095143.
+Process 0: Merged clusters 34 and 93 into one. Total active clusters now: 105.
+Process 0: Closest pair to merge: 16 and 77 with distance 0.095699.
+Process 0: Merged clusters 16 and 77 into one. Total active clusters now: 104.
+Process 0: Closest pair to merge: 42 and 76 with distance 0.095880.
+Process 0: Merged clusters 42 and 76 into one. Total active clusters now: 103.
+Process 0: Closest pair to merge: 52 and 63 with distance 0.096293.
+Process 0: Merged clusters 52 and 63 into one. Total active clusters now: 102.
+Process 0: Closest pair to merge: 87 and 89 with distance 0.096594.
+Process 0: Merged clusters 87 and 89 into one. Total active clusters now: 101.
+Process 0: Closest pair to merge: 24 and 90 with distance 0.097231.
+Process 0: Merged clusters 24 and 90 into one. Total active clusters now: 100.
+Process 0: Closest pair to merge: 58 and 89 with distance 0.098620.
+Process 0: Merged clusters 58 and 89 into one. Total active clusters now: 99.
+Process 0: Closest pair to merge: 66 and 79 with distance 0.098702.
+Process 0: Merged clusters 66 and 79 into one. Total active clusters now: 98.
+Process 0: Closest pair to merge: 30 and 35 with distance 0.098718.
+Process 0: Merged clusters 30 and 35 into one. Total active clusters now: 97.
+Process 0: Closest pair to merge: 19 and 49 with distance 0.099653.
+Process 0: Merged clusters 19 and 49 into one. Total active clusters now: 96.
+Process 0: Closest pair to merge: 37 and 63 with distance 0.099875.
+Process 0: Merged clusters 37 and 63 into one. Total active clusters now: 95.
+Process 0: Closest pair to merge: 39 and 79 with distance 0.101528.
+Process 0: Merged clusters 39 and 79 into one. Total active clusters now: 94.
+Process 0: Closest pair to merge: 3 and 6 with distance 0.101584.
+Process 0: Merged clusters 3 and 6 into one. Total active clusters now: 93.
+Process 0: Closest pair to merge: 3 and 9 with distance 0.099617.
+Process 0: Merged clusters 3 and 9 into one. Total active clusters now: 92.
+Process 0: Closest pair to merge: 48 and 73 with distance 0.102900.
+Process 0: Merged clusters 48 and 73 into one. Total active clusters now: 91.
+Process 0: Closest pair to merge: 45 and 79 with distance 0.103321.
+Process 0: Merged clusters 45 and 79 into one. Total active clusters now: 90.
+Process 0: Closest pair to merge: 40 and 79 with distance 0.104450.
+Process 0: Merged clusters 40 and 79 into one. Total active clusters now: 89.
+Process 0: Closest pair to merge: 70 and 73 with distance 0.105121.
+Process 0: Merged clusters 70 and 73 into one. Total active clusters now: 88.
+Process 0: Closest pair to merge: 8 and 12 with distance 0.105405.
+Process 0: Merged clusters 8 and 12 into one. Total active clusters now: 87.
+Process 0: Closest pair to merge: 6 and 36 with distance 0.105662.
+Process 0: Merged clusters 6 and 36 into one. Total active clusters now: 86.
+Process 0: Closest pair to merge: 60 and 82 with distance 0.106816.
+Process 0: Merged clusters 60 and 82 into one. Total active clusters now: 85.
+Process 0: Closest pair to merge: 53 and 70 with distance 0.107004.
+Process 0: Merged clusters 53 and 70 into one. Total active clusters now: 84.
+Process 0: Closest pair to merge: 1 and 7 with distance 0.107801.
+Process 0: Merged clusters 1 and 7 into one. Total active clusters now: 83.
+Process 0: Closest pair to merge: 43 and 47 with distance 0.109259.
+Process 0: Merged clusters 43 and 47 into one. Total active clusters now: 82.
+Process 0: Closest pair to merge: 13 and 40 with distance 0.109364.
+Process 0: Merged clusters 13 and 40 into one. Total active clusters now: 81.
+Process 0: Closest pair to merge: 0 and 70 with distance 0.109407.
+Process 0: Merged clusters 0 and 70 into one. Total active clusters now: 80.
+Process 0: Closest pair to merge: 8 and 74 with distance 0.109760.
+Process 0: Merged clusters 8 and 74 into one. Total active clusters now: 79.
+Process 0: Closest pair to merge: 11 and 60 with distance 0.111743.
+Process 0: Merged clusters 11 and 60 into one. Total active clusters now: 78.
+Process 0: Closest pair to merge: 25 and 61 with distance 0.112397.
+Process 0: Merged clusters 25 and 61 into one. Total active clusters now: 77.
+Process 0: Closest pair to merge: 23 and 66 with distance 0.112450.
+Process 0: Merged clusters 23 and 66 into one. Total active clusters now: 76.
+Process 0: Closest pair to merge: 59 and 74 with distance 0.113901.
+Process 0: Merged clusters 59 and 74 into one. Total active clusters now: 75.
+Process 0: Closest pair to merge: 70 and 72 with distance 0.115626.
+Process 0: Merged clusters 70 and 72 into one. Total active clusters now: 74.
+Process 0: Closest pair to merge: 57 and 70 with distance 0.115387.
+Process 0: Merged clusters 57 and 70 into one. Total active clusters now: 73.
+Process 0: Closest pair to merge: 19 and 39 with distance 0.117669.
+Process 0: Merged clusters 19 and 39 into one. Total active clusters now: 72.
+Process 0: Closest pair to merge: 5 and 65 with distance 0.118656.
+Process 0: Merged clusters 5 and 65 into one. Total active clusters now: 71.
+Process 0: Closest pair to merge: 29 and 38 with distance 0.119424.
+Process 0: Merged clusters 29 and 38 into one. Total active clusters now: 70.
+Process 0: Closest pair to merge: 4 and 41 with distance 0.122000.
+Process 0: Merged clusters 4 and 41 into one. Total active clusters now: 69.
+Process 0: Closest pair to merge: 17 and 26 with distance 0.122936.
+Process 0: Merged clusters 17 and 26 into one. Total active clusters now: 68.
+Process 0: Closest pair to merge: 12 and 55 with distance 0.123779.
+Process 0: Merged clusters 12 and 55 into one. Total active clusters now: 67.
+Process 0: Closest pair to merge: 14 and 56 with distance 0.124580.
+Process 0: Merged clusters 14 and 56 into one. Total active clusters now: 66.
+Process 0: Closest pair to merge: 15 and 55 with distance 0.128087.
+Process 0: Merged clusters 15 and 55 into one. Total active clusters now: 65.
+Process 0: Closest pair to merge: 39 and 47 with distance 0.130185.
+Process 0: Merged clusters 39 and 47 into one. Total active clusters now: 64.
+Process 0: Closest pair to merge: 11 and 58 with distance 0.131778.
+Process 0: Merged clusters 11 and 58 into one. Total active clusters now: 63.
+Process 0: Closest pair to merge: 37 and 60 with distance 0.131991.
+Process 0: Merged clusters 37 and 60 into one. Total active clusters now: 62.
+Process 0: Closest pair to merge: 44 and 58 with distance 0.134704.
+Process 0: Merged clusters 44 and 58 into one. Total active clusters now: 61.
+Process 0: Closest pair to merge: 20 and 56 with distance 0.135385.
+Process 0: Merged clusters 20 and 56 into one. Total active clusters now: 60.
+Process 0: Closest pair to merge: 29 and 54 with distance 0.135636.
+Process 0: Merged clusters 29 and 54 into one. Total active clusters now: 59.
+Process 0: Closest pair to merge: 56 and 57 with distance 0.135693.
+Process 0: Merged clusters 56 and 57 into one. Total active clusters now: 58.
+Process 0: Closest pair to merge: 9 and 19 with distance 0.136218.
+Process 0: Merged clusters 9 and 19 into one. Total active clusters now: 57.
+Process 0: Closest pair to merge: 22 and 52 with distance 0.137383.
+Process 0: Merged clusters 22 and 52 into one. Total active clusters now: 56.
+Process 0: Closest pair to merge: 10 and 41 with distance 0.137655.
+Process 0: Merged clusters 10 and 41 into one. Total active clusters now: 55.
+Process 0: Closest pair to merge: 21 and 23 with distance 0.137738.
+Process 0: Merged clusters 21 and 23 into one. Total active clusters now: 54.
+Process 0: Closest pair to merge: 10 and 39 with distance 0.139215.
+Process 0: Merged clusters 10 and 39 into one. Total active clusters now: 53.
+Process 0: Closest pair to merge: 29 and 43 with distance 0.141574.
+Process 0: Merged clusters 29 and 43 into one. Total active clusters now: 52.
+Process 0: Closest pair to merge: 16 and 32 with distance 0.141694.
+Process 0: Merged clusters 16 and 32 into one. Total active clusters now: 51.
+Process 0: Closest pair to merge: 18 and 25 with distance 0.144413.
+Process 0: Merged clusters 18 and 25 into one. Total active clusters now: 50.
+Process 0: Closest pair to merge: 37 and 42 with distance 0.145570.
+Process 0: Merged clusters 37 and 42 into one. Total active clusters now: 49.
+Process 0: Closest pair to merge: 27 and 48 with distance 0.147641.
+Process 0: Merged clusters 27 and 48 into one. Total active clusters now: 48.
+Process 0: Closest pair to merge: 26 and 42 with distance 0.152215.
+Process 0: Merged clusters 26 and 42 into one. Total active clusters now: 47.
+Process 0: Closest pair to merge: 13 and 42 with distance 0.154659.
+Process 0: Merged clusters 13 and 42 into one. Total active clusters now: 46.
+Process 0: Closest pair to merge: 19 and 43 with distance 0.156007.
+Process 0: Merged clusters 19 and 43 into one. Total active clusters now: 45.
+Process 0: Closest pair to merge: 20 and 30 with distance 0.159144.
+Process 0: Merged clusters 20 and 30 into one. Total active clusters now: 44.
+Process 0: Closest pair to merge: 8 and 20 with distance 0.156569.
+Process 0: Merged clusters 8 and 20 into one. Total active clusters now: 43.
+Process 0: Closest pair to merge: 6 and 38 with distance 0.159516.
+Process 0: Merged clusters 6 and 38 into one. Total active clusters now: 42.
+Process 0: Closest pair to merge: 12 and 32 with distance 0.161903.
+Process 0: Merged clusters 12 and 32 into one. Total active clusters now: 41.
+Process 0: Closest pair to merge: 5 and 40 with distance 0.161976.
+Process 0: Merged clusters 5 and 40 into one. Total active clusters now: 40.
+Process 0: Closest pair to merge: 0 and 37 with distance 0.162113.
+Process 0: Merged clusters 0 and 37 into one. Total active clusters now: 39.
+Process 0: Closest pair to merge: 13 and 22 with distance 0.166187.
+Process 0: Merged clusters 13 and 22 into one. Total active clusters now: 38.
+Process 0: Closest pair to merge: 11 and 29 with distance 0.170111.
+Process 0: Merged clusters 11 and 29 into one. Total active clusters now: 37.
+Process 0: Closest pair to merge: 21 and 22 with distance 0.170909.
+Process 0: Merged clusters 21 and 22 into one. Total active clusters now: 36.
+Process 0: Closest pair to merge: 16 and 33 with distance 0.171109.
+Process 0: Merged clusters 16 and 33 into one. Total active clusters now: 35.
+Process 0: Closest pair to merge: 2 and 30 with distance 0.171760.
+Process 0: Merged clusters 2 and 30 into one. Total active clusters now: 34.
+Process 0: Closest pair to merge: 17 and 29 with distance 0.182840.
+Process 0: Merged clusters 17 and 29 into one. Total active clusters now: 33.
+Process 0: Closest pair to merge: 1 and 30 with distance 0.182960.
+Process 0: Merged clusters 1 and 30 into one. Total active clusters now: 32.
+Process 0: Closest pair to merge: 22 and 28 with distance 0.183530.
+Process 0: Merged clusters 22 and 28 into one. Total active clusters now: 31.
+Process 0: Closest pair to merge: 2 and 14 with distance 0.193040.
+Process 0: Merged clusters 2 and 14 into one. Total active clusters now: 30.
+Process 0: Closest pair to merge: 16 and 26 with distance 0.194182.
+Process 0: Merged clusters 16 and 26 into one. Total active clusters now: 29.
+Process 0: Closest pair to merge: 6 and 23 with distance 0.196063.
+Process 0: Merged clusters 6 and 23 into one. Total active clusters now: 28.
+Process 0: Closest pair to merge: 8 and 24 with distance 0.197320.
+Process 0: Merged clusters 8 and 24 into one. Total active clusters now: 27.
+Process 0: Closest pair to merge: 13 and 26 with distance 0.212839.
+Process 0: Merged clusters 13 and 26 into one. Total active clusters now: 26.
+Process 0: Closest pair to merge: 12 and 17 with distance 0.214951.
+Process 0: Merged clusters 12 and 17 into one. Total active clusters now: 25.
+Process 0: Closest pair to merge: 10 and 18 with distance 0.215989.
+Process 0: Merged clusters 10 and 18 into one. Total active clusters now: 24.
+Process 0: Closest pair to merge: 4 and 20 with distance 0.216023.
+Process 0: Merged clusters 4 and 20 into one. Total active clusters now: 23.
+Process 0: Closest pair to merge: 4 and 21 with distance 0.230096.
+Process 0: Merged clusters 4 and 21 into one. Total active clusters now: 22.
+Process 0: Closest pair to merge: 6 and 15 with distance 0.235698.
+Process 0: Merged clusters 6 and 15 into one. Total active clusters now: 21.
+Process 0: Closest pair to merge: 5 and 20 with distance 0.243185.
+Process 0: Merged clusters 5 and 20 into one. Total active clusters now: 20.
+Process 0: Closest pair to merge: 11 and 14 with distance 0.253797.
+Process 0: Merged clusters 11 and 14 into one. Total active clusters now: 19.
+Process 0: Closest pair to merge: 11 and 15 with distance 0.230258.
+Process 0: Merged clusters 11 and 15 into one. Total active clusters now: 18.
+Process 0: Closest pair to merge: 2 and 17 with distance 0.255868.
+Process 0: Merged clusters 2 and 17 into one. Total active clusters now: 17.
+Process 0: Closest pair to merge: 1 and 5 with distance 0.269400.
+Process 0: Merged clusters 1 and 5 into one. Total active clusters now: 16.
+Process 0: Closest pair to merge: 8 and 15 with distance 0.288000.
+Process 0: Merged clusters 8 and 15 into one. Total active clusters now: 15.
+Process 0: Closest pair to merge: 9 and 12 with distance 0.306347.
+Process 0: Merged clusters 9 and 12 into one. Total active clusters now: 14.
+Process 0: Closest pair to merge: 7 and 13 with distance 0.326714.
+Process 0: Merged clusters 7 and 13 into one. Total active clusters now: 13.
+Process 0: Closest pair to merge: 8 and 10 with distance 0.336885.
+Process 0: Merged clusters 8 and 10 into one. Total active clusters now: 12.
+Process 0: Closest pair to merge: 5 and 7 with distance 0.340633.
+Process 0: Merged clusters 5 and 7 into one. Total active clusters now: 11.
+Process 0: Closest pair to merge: 8 and 9 with distance 0.349714.
+Process 0: Merged clusters 8 and 9 into one. Total active clusters now: 10.
+Process 0: Closest pair to merge: 0 and 7 with distance 0.394954.
+Process 0: Merged clusters 0 and 7 into one. Total active clusters now: 9.
+Process 0: Closest pair to merge: 2 and 8 with distance 0.407191.
+Process 0: Merged clusters 2 and 8 into one. Total active clusters now: 8.
+Process 0: Closest pair to merge: 1 and 4 with distance 0.413249.
+Process 0: Merged clusters 1 and 4 into one. Total active clusters now: 7.
+Process 0: Closest pair to merge: 0 and 2 with distance 0.518009.
+Process 0: Merged clusters 0 and 2 into one. Total active clusters now: 6.
+Process 0: Closest pair to merge: 1 and 3 with distance 0.526241.
+Process 0: Merged clusters 1 and 3 into one. Total active clusters now: 5.
+Process 0: Closest pair to merge: 1 and 4 with distance 0.548237.
+Process 0: Merged clusters 1 and 4 into one. Total active clusters now: 4.
+Process 0: Closest pair to merge: 2 and 3 with distance 0.688498.
+Process 0: Merged clusters 2 and 3 into one. Total active clusters now: 3.
+Process 0: Completed local merging. Final clusters: 3.
+Clustering took 494.861804 seconds.
+Cluster labels and points saved to 'cluster_result_1kdata_procs1.csv'.
